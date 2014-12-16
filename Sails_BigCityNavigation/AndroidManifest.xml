@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.doubleservice.bigcitynavigation"
+    android:versionCode="7"
+    android:versionName="1.0.6" >
+
+    <supports-screens android:anyDensity="true" />
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".ApplicationController"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:logo="@drawable/logo"
+        android:theme="@style/CustomActionBar" >
+
+        <!-- com.doubleservice.layout.homepage -->
+        <activity
+            android:name="com.doubleservice.bigcitynavigation.FreeHomepage"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".PushMsgFileActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".SailsTechActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        <activity
+            android:name="com.doubleservice.bigcitynavigation.drawer.BaseDrawerActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".AdActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.bigcitynavigation.Navigation"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="map.navi.component.NavigationRouteSetting"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.findfriends.FriendList"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.findfriends.FindFriendDes"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.findchild.ChildBeaconSetup"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.findchild.FindChildDescription"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.findchild.DetectPage"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.dr.DinningRoomList"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.dr.FreeDinningRoomPage"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.dr.FreeReservationInfo"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.dr.FreeReservation"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.dr.FreeReservationByNumber"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.dr.FreeReservationByTime"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.parking.ParkDescription"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.parking.ParkWarningSetting"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.parking.UserParkingInfo"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.brand.MainBrandLayout"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.brand.BrandList"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.brand.FreeBrandPage"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.promotional.MainPromotional"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.promotional.PromotionalList"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.doubleservice.promotional.FreePromotionalPage"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".MemberHappyGo"
+            android:screenOrientation="portrait" >
+        </activity>
+		<activity
+            android:name="com.doubleservice.parking.map.ParkingMap"
+            android:screenOrientation="portrait" >
+        </activity>
+        
+        
+        <service android:name="com.doubleservice.findchild.ChildDetectService" >
+        </service>
+        <service android:name=".PushMessageService" >
+        </service>
+        <service android:name=".IbeaconService" >
+        </service>
+		<service android:name=".WiFiService" >
+        </service>
+        <receiver android:name="com.doubleservice.parking.ParkAlarmReceiver" />
+        <receiver android:name=".AlarmReceiverUtil" />
+    </application>
+
+</manifest>

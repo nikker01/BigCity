@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mynamecard_FontColor_labelColor">#0790b3</color>
+      <color name="contents_text">#ff000000</color>
+  <color name="encode_view">#ffffffff</color>
+  <color name="white">#ffffffff</color>
+  <color name="lightgray">#b5b5b5</color>
+  <color name="lightblue">#2aa8c8</color>
+  <color name="lightred">#DC006B</color>
+  <color name="lightorange">#f8972c</color>
+  <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+  <color name="result_minor_text">#ffc0c0c0</color>
+  <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+  <color name="result_text">#ffffffff</color>
+  <color name="result_view">#b0000000</color>
+  <color name="status_text">#ffffffff</color>
+  <color name="transparent">#00000000</color>
+  <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+  <color name="viewfinder_mask">#60000000</color>
+  <color name="red">#ff0000</color>
+  <color name="green">#00ff00</color>
+  <color name="blue">#0000ff</color>  
+  <color name="newsFontColor">#184D67</color>  
+  <color name="black">#000000</color>  
+  <color name="productInfo_FontColor_dark">#c1c1c1</color>  
+  <color name="transparent2">#aa000000</color>
+  <color name="gray">#6C6C6C</color>
+  <color name="orange">#FFA500</color>
+  <color name="static_text_color">#003366</color>
+  <color name="route_color">#d00000</color>
+  <!-- customize -->
+  <color name="homepage_backgroud_color">#fff7f7f7</color>
+
+</resources>

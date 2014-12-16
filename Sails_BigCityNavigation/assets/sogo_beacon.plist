@@ -1,0 +1,44 @@
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<dict>
+		<key>BigCity_APList</key>
+		<dict>
+			<key>0</key>
+			<dict>
+				<key>MacAddress</key>
+				<array>
+					<string>0_40</string>
+					<string>0_41</string>
+					<string>0_42</string>
+					<string>0_43</string>
+					<string>0_44</string>
+					<string>0_45</string>
+					<string>0_46</string>
+					<string>0_47</string>
+					<string>0_48</string>
+					<string>0_49</string>
+					<string>0_50</string>
+					<string>0_51</string>
+					<string>0_54</string>
+					<string>0_56</string>
+					<string>0_58</string>
+					<string>0_60</string>
+					<string>0_61</string>
+					<string>0_62</string>
+					<string>0_63</string>
+					<string>0_64</string>
+					<string>0_65</string>
+					<string>0_66</string>
+					<string>0_67</string>
+					<string>0_68</string>
+					<string>0_69</string>
+					<string>0_70</string>
+					<string>0_71</string>
+					<string>0_72</string>					
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

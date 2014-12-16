@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <ImageView 
+        android:id="@+id/img_navi_setting_start_and_end"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20dip"
+        android:layout_marginTop="40dip"
+        android:background="@drawable/img_navigation_setting_start_and_end"
+        />
+    
+    <LinearLayout 
+        android:id="@+id/linear_start_setting"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+         android:layout_marginTop="20dip"
+         android:layout_toRightOf="@id/img_navi_setting_start_and_end"
+        android:layout_marginLeft="20dip"
+        
+        >
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/layout_navigation_setting_start"
+            android:textSize="18sp"
+            android:textColor="#282828"
+            />
+        <EditText 
+            android:id="@+id/edittext_start"
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:text="@string/layout_navigation_setting_select_start"
+            android:textColor="#d00000"
+            android:textSize="18sp"
+            android:background="@drawable/img_setting_navigation_start"
+            android:focusableInTouchMode="false"
+             android:layout_marginLeft="10dip"
+            />
+    </LinearLayout>
+	 <LinearLayout
+	     android:id="@+id/linear_end_setting" 
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/linear_start_setting"
+        android:layout_marginTop="20dip"
+         android:layout_toRightOf="@id/img_navi_setting_start_and_end"
+        android:layout_marginLeft="20dip"
+        
+        >
+        
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/layout_navigation_setting_end"
+            android:textSize="18sp"
+            android:textColor="#282828"
+            />
+        <EditText 
+            android:id="@+id/edittext_end"
+            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:text="@string/layout_navigation_setting_select_end"
+            android:textColor="#838383"
+            android:textSize="18sp"
+            android:background="@drawable/img_setting_navigation_start"
+            android:focusableInTouchMode="false"
+            android:layout_marginLeft="10dip"
+            />
+    </LinearLayout>
+    <LinearLayout 
+         android:id="@+id/linear_start_navigation_setting" 
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:layout_below="@id/linear_end_setting"
+        android:orientation="vertical"
+        android:layout_marginTop="20dip"
+        >
+        
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/img_seprate_line"
+            />
+         <Button android:id="@+id/button_set_route"
+	     	android:layout_width="wrap_content"
+	     	android:layout_height="wrap_content"
+	     	android:background="@drawable/btn_start_navigation"
+	     	android:layout_marginTop="20dip"	 
+	     	android:layout_gravity="center_horizontal"
+	     />
+    </LinearLayout>
+	
+</RelativeLayout>

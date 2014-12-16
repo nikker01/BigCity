@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<dict>
+		<key>Sogo_APList</key>
+		<dict>
+			<key>0</key>
+			<dict>
+				<key>MacAddress</key>
+				<array>
+					<string>54:d0:ed:a1:5a:90</string>
+					<string>54:d0:ed:a1:56:70</string>
+					<string>54:d0:ed:a1:57:10</string>
+					<string>54:d0:ed:a1:56:30</string>
+					<string>54:e0:ed:a1:55:78</string>
+					<string>54:d0:ed:a1:56:c0</string>
+					<string>54:d0:ed:a1:4f:d8</string>
+					<string>54:d0:ed:a1:5d:18</string>
+					<string>54:d0:ed:a1:50:10</string>
+					<string>54:d0:ed:a1:53:88</string>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

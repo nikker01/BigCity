@@ -1,0 +1,1152 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager: ViewPager(android.content.Context)
+android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context)
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet,int)
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+com.android.volley.Request$Priority: com.android.volley.Request$Priority[] values()
+com.android.volley.Request$Priority: com.android.volley.Request$Priority valueOf(java.lang.String)
+com.android.volley.toolbox.NetworkImageView: void setDefaultImageResId(int)
+com.android.volley.toolbox.NetworkImageView: void setErrorImageResId(int)
+com.doubleservice.DataVO.GlobalDataVO$AlertMsg: com.doubleservice.DataVO.GlobalDataVO$AlertMsg[] values()
+com.doubleservice.DataVO.GlobalDataVO$AlertMsg: com.doubleservice.DataVO.GlobalDataVO$AlertMsg valueOf(java.lang.String)
+com.doubleservice.bigcitynavigation.AdActivity
+com.doubleservice.bigcitynavigation.AdActivity: AdActivity()
+com.doubleservice.bigcitynavigation.ApplicationController
+com.doubleservice.bigcitynavigation.ApplicationController: ApplicationController()
+com.doubleservice.bigcitynavigation.FreeHomepage
+com.doubleservice.bigcitynavigation.FreeHomepage: FreeHomepage()
+com.doubleservice.bigcitynavigation.IbeaconService
+com.doubleservice.bigcitynavigation.IbeaconService: IbeaconService()
+com.doubleservice.bigcitynavigation.MemberHappyGo
+com.doubleservice.bigcitynavigation.MemberHappyGo: MemberHappyGo()
+com.doubleservice.bigcitynavigation.Navigation
+com.doubleservice.bigcitynavigation.Navigation: Navigation()
+com.doubleservice.bigcitynavigation.PushMessageService
+com.doubleservice.bigcitynavigation.PushMessageService: PushMessageService()
+com.doubleservice.bigcitynavigation.PushMsgFileActivity
+com.doubleservice.bigcitynavigation.PushMsgFileActivity: PushMsgFileActivity()
+com.doubleservice.bigcitynavigation.R$anim: int child_detect_anim
+com.doubleservice.bigcitynavigation.R$anim: int popupwindow_in
+com.doubleservice.bigcitynavigation.R$anim: int popupwindow_out
+com.doubleservice.bigcitynavigation.R$array: int fileEndingAudio
+com.doubleservice.bigcitynavigation.R$array: int fileEndingExcel
+com.doubleservice.bigcitynavigation.R$array: int fileEndingImage
+com.doubleservice.bigcitynavigation.R$array: int fileEndingPPT
+com.doubleservice.bigcitynavigation.R$array: int fileEndingPackage
+com.doubleservice.bigcitynavigation.R$array: int fileEndingPdf
+com.doubleservice.bigcitynavigation.R$array: int fileEndingText
+com.doubleservice.bigcitynavigation.R$array: int fileEndingVideo
+com.doubleservice.bigcitynavigation.R$array: int fileEndingWebText
+com.doubleservice.bigcitynavigation.R$array: int fileEndingWord
+com.doubleservice.bigcitynavigation.R$attr: int foldNumber
+com.doubleservice.bigcitynavigation.R$attr: int ptrAdapterViewBackground
+com.doubleservice.bigcitynavigation.R$attr: int ptrAnimationStyle
+com.doubleservice.bigcitynavigation.R$attr: int ptrDrawable
+com.doubleservice.bigcitynavigation.R$attr: int ptrDrawableBottom
+com.doubleservice.bigcitynavigation.R$attr: int ptrDrawableEnd
+com.doubleservice.bigcitynavigation.R$attr: int ptrDrawableStart
+com.doubleservice.bigcitynavigation.R$attr: int ptrDrawableTop
+com.doubleservice.bigcitynavigation.R$attr: int ptrHeaderBackground
+com.doubleservice.bigcitynavigation.R$attr: int ptrHeaderSubTextColor
+com.doubleservice.bigcitynavigation.R$attr: int ptrHeaderTextAppearance
+com.doubleservice.bigcitynavigation.R$attr: int ptrHeaderTextColor
+com.doubleservice.bigcitynavigation.R$attr: int ptrListViewExtrasEnabled
+com.doubleservice.bigcitynavigation.R$attr: int ptrMode
+com.doubleservice.bigcitynavigation.R$attr: int ptrOverScroll
+com.doubleservice.bigcitynavigation.R$attr: int ptrRefreshableViewBackground
+com.doubleservice.bigcitynavigation.R$attr: int ptrRotateDrawableWhilePulling
+com.doubleservice.bigcitynavigation.R$attr: int ptrScrollingWhileRefreshingEnabled
+com.doubleservice.bigcitynavigation.R$attr: int ptrShowIndicator
+com.doubleservice.bigcitynavigation.R$attr: int ptrSubHeaderTextAppearance
+com.doubleservice.bigcitynavigation.R$attr: int switchMinWidth
+com.doubleservice.bigcitynavigation.R$attr: int switchPadding
+com.doubleservice.bigcitynavigation.R$attr: int switchTextAppearance
+com.doubleservice.bigcitynavigation.R$attr: int textAllCaps
+com.doubleservice.bigcitynavigation.R$attr: int textOff
+com.doubleservice.bigcitynavigation.R$attr: int textOn
+com.doubleservice.bigcitynavigation.R$attr: int thumb
+com.doubleservice.bigcitynavigation.R$attr: int thumbTextPadding
+com.doubleservice.bigcitynavigation.R$attr: int track
+com.doubleservice.bigcitynavigation.R$color: int black
+com.doubleservice.bigcitynavigation.R$color: int blue
+com.doubleservice.bigcitynavigation.R$color: int contents_text
+com.doubleservice.bigcitynavigation.R$color: int encode_view
+com.doubleservice.bigcitynavigation.R$color: int gray
+com.doubleservice.bigcitynavigation.R$color: int green
+com.doubleservice.bigcitynavigation.R$color: int homepage_backgroud_color
+com.doubleservice.bigcitynavigation.R$color: int lightblue
+com.doubleservice.bigcitynavigation.R$color: int lightgray
+com.doubleservice.bigcitynavigation.R$color: int lightorange
+com.doubleservice.bigcitynavigation.R$color: int lightred
+com.doubleservice.bigcitynavigation.R$color: int mynamecard_FontColor_labelColor
+com.doubleservice.bigcitynavigation.R$color: int newsFontColor
+com.doubleservice.bigcitynavigation.R$color: int orange
+com.doubleservice.bigcitynavigation.R$color: int possible_result_points
+com.doubleservice.bigcitynavigation.R$color: int productInfo_FontColor_dark
+com.doubleservice.bigcitynavigation.R$color: int red
+com.doubleservice.bigcitynavigation.R$color: int result_minor_text
+com.doubleservice.bigcitynavigation.R$color: int result_points
+com.doubleservice.bigcitynavigation.R$color: int result_text
+com.doubleservice.bigcitynavigation.R$color: int result_view
+com.doubleservice.bigcitynavigation.R$color: int route_color
+com.doubleservice.bigcitynavigation.R$color: int static_text_color
+com.doubleservice.bigcitynavigation.R$color: int status_text
+com.doubleservice.bigcitynavigation.R$color: int transparent
+com.doubleservice.bigcitynavigation.R$color: int transparent2
+com.doubleservice.bigcitynavigation.R$color: int viewfinder_laser
+com.doubleservice.bigcitynavigation.R$color: int viewfinder_mask
+com.doubleservice.bigcitynavigation.R$color: int white
+com.doubleservice.bigcitynavigation.R$dimen: int activity_horizontal_margin
+com.doubleservice.bigcitynavigation.R$dimen: int activity_vertical_margin
+com.doubleservice.bigcitynavigation.R$drawable: int ad_0_5_6
+com.doubleservice.bigcitynavigation.R$drawable: int ad_1_1
+com.doubleservice.bigcitynavigation.R$drawable: int ad_1_2
+com.doubleservice.bigcitynavigation.R$drawable: int ad_21century
+com.doubleservice.bigcitynavigation.R$drawable: int arrow
+com.doubleservice.bigcitynavigation.R$drawable: int bg_actionbar
+com.doubleservice.bigcitynavigation.R$drawable: int bg_btm
+com.doubleservice.bigcitynavigation.R$drawable: int bg_edit_text
+com.doubleservice.bigcitynavigation.R$drawable: int bg_friend_des_bottom
+com.doubleservice.bigcitynavigation.R$drawable: int bg_name_field
+com.doubleservice.bigcitynavigation.R$drawable: int bg_parking_setting
+com.doubleservice.bigcitynavigation.R$drawable: int bg_pic
+com.doubleservice.bigcitynavigation.R$drawable: int bg_reservation_default
+com.doubleservice.bigcitynavigation.R$drawable: int bg_reservation_list_default
+com.doubleservice.bigcitynavigation.R$drawable: int bg_setting_time
+com.doubleservice.bigcitynavigation.R$drawable: int btn_big_nav
+com.doubleservice.bigcitynavigation.R$drawable: int btn_brand
+com.doubleservice.bigcitynavigation.R$drawable: int btn_cance
+com.doubleservice.bigcitynavigation.R$drawable: int btn_cancel
+com.doubleservice.bigcitynavigation.R$drawable: int btn_complete
+com.doubleservice.bigcitynavigation.R$drawable: int btn_delete_beacon
+com.doubleservice.bigcitynavigation.R$drawable: int btn_delete_car
+com.doubleservice.bigcitynavigation.R$drawable: int btn_findchild
+com.doubleservice.bigcitynavigation.R$drawable: int btn_findfriend
+com.doubleservice.bigcitynavigation.R$drawable: int btn_floor
+com.doubleservice.bigcitynavigation.R$drawable: int btn_food
+com.doubleservice.bigcitynavigation.R$drawable: int btn_happygo
+com.doubleservice.bigcitynavigation.R$drawable: int btn_navigation
+com.doubleservice.bigcitynavigation.R$drawable: int btn_no
+com.doubleservice.bigcitynavigation.R$drawable: int btn_parking
+com.doubleservice.bigcitynavigation.R$drawable: int btn_parking_done
+com.doubleservice.bigcitynavigation.R$drawable: int btn_parking_start
+com.doubleservice.bigcitynavigation.R$drawable: int btn_prev
+com.doubleservice.bigcitynavigation.R$drawable: int btn_promotion
+com.doubleservice.bigcitynavigation.R$drawable: int btn_reservation
+com.doubleservice.bigcitynavigation.R$drawable: int btn_reservation_cancel
+com.doubleservice.bigcitynavigation.R$drawable: int btn_reservation_disable
+com.doubleservice.bigcitynavigation.R$drawable: int btn_start_navigation
+com.doubleservice.bigcitynavigation.R$drawable: int btn_start_to_use
+com.doubleservice.bigcitynavigation.R$drawable: int btn_yes
+com.doubleservice.bigcitynavigation.R$drawable: int child_detect_f1
+com.doubleservice.bigcitynavigation.R$drawable: int child_detect_f2
+com.doubleservice.bigcitynavigation.R$drawable: int child_detect_f3
+com.doubleservice.bigcitynavigation.R$drawable: int child_detect_f4
+com.doubleservice.bigcitynavigation.R$drawable: int content01
+com.doubleservice.bigcitynavigation.R$drawable: int content02
+com.doubleservice.bigcitynavigation.R$drawable: int content03
+com.doubleservice.bigcitynavigation.R$drawable: int content04
+com.doubleservice.bigcitynavigation.R$drawable: int content05
+com.doubleservice.bigcitynavigation.R$drawable: int content06
+com.doubleservice.bigcitynavigation.R$drawable: int content07
+com.doubleservice.bigcitynavigation.R$drawable: int content08
+com.doubleservice.bigcitynavigation.R$drawable: int content09
+com.doubleservice.bigcitynavigation.R$drawable: int content10
+com.doubleservice.bigcitynavigation.R$drawable: int content11
+com.doubleservice.bigcitynavigation.R$drawable: int content12
+com.doubleservice.bigcitynavigation.R$drawable: int content13
+com.doubleservice.bigcitynavigation.R$drawable: int content14
+com.doubleservice.bigcitynavigation.R$drawable: int content15
+com.doubleservice.bigcitynavigation.R$drawable: int drawer_shadow
+com.doubleservice.bigcitynavigation.R$drawable: int edit_beacon_no
+com.doubleservice.bigcitynavigation.R$drawable: int find_child_setting
+com.doubleservice.bigcitynavigation.R$drawable: int friendpoint
+com.doubleservice.bigcitynavigation.R$drawable: int header
+com.doubleservice.bigcitynavigation.R$drawable: int ic_drawer
+com.doubleservice.bigcitynavigation.R$drawable: int ic_launcher
+com.doubleservice.bigcitynavigation.R$drawable: int icon_account
+com.doubleservice.bigcitynavigation.R$drawable: int icon_child_detect
+com.doubleservice.bigcitynavigation.R$drawable: int icon_child_small
+com.doubleservice.bigcitynavigation.R$drawable: int icon_close
+com.doubleservice.bigcitynavigation.R$drawable: int icon_close_navi
+com.doubleservice.bigcitynavigation.R$drawable: int icon_drawer
+com.doubleservice.bigcitynavigation.R$drawable: int icon_find_brand
+com.doubleservice.bigcitynavigation.R$drawable: int icon_find_child
+com.doubleservice.bigcitynavigation.R$drawable: int icon_find_friend
+com.doubleservice.bigcitynavigation.R$drawable: int icon_find_friend_big
+com.doubleservice.bigcitynavigation.R$drawable: int icon_find_promotion
+com.doubleservice.bigcitynavigation.R$drawable: int icon_floor
+com.doubleservice.bigcitynavigation.R$drawable: int icon_food
+com.doubleservice.bigcitynavigation.R$drawable: int icon_happygo
+com.doubleservice.bigcitynavigation.R$drawable: int icon_home
+com.doubleservice.bigcitynavigation.R$drawable: int icon_little_car
+com.doubleservice.bigcitynavigation.R$drawable: int icon_location_small
+com.doubleservice.bigcitynavigation.R$drawable: int icon_myfriend
+com.doubleservice.bigcitynavigation.R$drawable: int icon_navi_end
+com.doubleservice.bigcitynavigation.R$drawable: int icon_navi_start
+com.doubleservice.bigcitynavigation.R$drawable: int icon_parking
+com.doubleservice.bigcitynavigation.R$drawable: int icon_parking_small
+com.doubleservice.bigcitynavigation.R$drawable: int img_car
+com.doubleservice.bigcitynavigation.R$drawable: int img_contact_list
+com.doubleservice.bigcitynavigation.R$drawable: int img_defaut_big
+com.doubleservice.bigcitynavigation.R$drawable: int img_dr_bottom
+com.doubleservice.bigcitynavigation.R$drawable: int img_empty
+com.doubleservice.bigcitynavigation.R$drawable: int img_find_child
+com.doubleservice.bigcitynavigation.R$drawable: int img_list_default
+com.doubleservice.bigcitynavigation.R$drawable: int img_map_sogo
+com.doubleservice.bigcitynavigation.R$drawable: int img_navigation_popview_no_navi
+com.doubleservice.bigcitynavigation.R$drawable: int img_navigation_popview_with_navi
+com.doubleservice.bigcitynavigation.R$drawable: int img_navigation_setting_start_and_end
+com.doubleservice.bigcitynavigation.R$drawable: int img_reservation2
+com.doubleservice.bigcitynavigation.R$drawable: int img_reservation_bottom
+com.doubleservice.bigcitynavigation.R$drawable: int img_seprate_line
+com.doubleservice.bigcitynavigation.R$drawable: int img_setting_navigation_start
+com.doubleservice.bigcitynavigation.R$drawable: int item_bg
+com.doubleservice.bigcitynavigation.R$drawable: int locate_pin
+com.doubleservice.bigcitynavigation.R$drawable: int logo
+com.doubleservice.bigcitynavigation.R$drawable: int map_bigcity
+com.doubleservice.bigcitynavigation.R$drawable: int map_bigcity2
+com.doubleservice.bigcitynavigation.R$drawable: int map_bigcity_big
+com.doubleservice.bigcitynavigation.R$drawable: int map_parking_place
+com.doubleservice.bigcitynavigation.R$drawable: int map_sogo
+com.doubleservice.bigcitynavigation.R$drawable: int menu_change_map
+com.doubleservice.bigcitynavigation.R$drawable: int menu_icon
+com.doubleservice.bigcitynavigation.R$drawable: int navigation
+com.doubleservice.bigcitynavigation.R$drawable: int pin
+com.doubleservice.bigcitynavigation.R$drawable: int point2
+com.doubleservice.bigcitynavigation.R$drawable: int point3
+com.doubleservice.bigcitynavigation.R$drawable: int relocate
+com.doubleservice.bigcitynavigation.R$drawable: int reservation_info_number
+com.doubleservice.bigcitynavigation.R$drawable: int reservation_info_time
+com.doubleservice.bigcitynavigation.R$drawable: int reserve01
+com.doubleservice.bigcitynavigation.R$drawable: int roller
+com.doubleservice.bigcitynavigation.R$drawable: int setting_icon
+com.doubleservice.bigcitynavigation.R$drawable: int targetpoint
+com.doubleservice.bigcitynavigation.R$drawable: int targetpoint_green
+com.doubleservice.bigcitynavigation.R$drawable: int view_line
+com.doubleservice.bigcitynavigation.R$drawable: int view_line1
+com.doubleservice.bigcitynavigation.R$id: int action
+com.doubleservice.bigcitynavigation.R$id: int action_close
+com.doubleservice.bigcitynavigation.R$id: int action_goback_setup
+com.doubleservice.bigcitynavigation.R$id: int action_selectfloor
+com.doubleservice.bigcitynavigation.R$id: int action_settings
+com.doubleservice.bigcitynavigation.R$id: int activity_frame
+com.doubleservice.bigcitynavigation.R$id: int both
+com.doubleservice.bigcitynavigation.R$id: int bottom_layout
+com.doubleservice.bigcitynavigation.R$id: int brandContent
+com.doubleservice.bigcitynavigation.R$id: int brandTitle
+com.doubleservice.bigcitynavigation.R$id: int btnBackward
+com.doubleservice.bigcitynavigation.R$id: int btnCancel
+com.doubleservice.bigcitynavigation.R$id: int btnComplete
+com.doubleservice.bigcitynavigation.R$id: int btnConfirm
+com.doubleservice.bigcitynavigation.R$id: int btnDeleteCar
+com.doubleservice.bigcitynavigation.R$id: int btnFindChild
+com.doubleservice.bigcitynavigation.R$id: int btnFindFriend
+com.doubleservice.bigcitynavigation.R$id: int btnFloorMap
+com.doubleservice.bigcitynavigation.R$id: int btnHappyGoMember
+com.doubleservice.bigcitynavigation.R$id: int btnNav
+com.doubleservice.bigcitynavigation.R$id: int btnNavigation
+com.doubleservice.bigcitynavigation.R$id: int btnParking
+com.doubleservice.bigcitynavigation.R$id: int btnReservation
+com.doubleservice.bigcitynavigation.R$id: int btnReservationCancel
+com.doubleservice.bigcitynavigation.R$id: int btnSearchBrand
+com.doubleservice.bigcitynavigation.R$id: int btnSearchFood
+com.doubleservice.bigcitynavigation.R$id: int btnSearchPromotion
+com.doubleservice.bigcitynavigation.R$id: int btnStart
+com.doubleservice.bigcitynavigation.R$id: int btn_navigation
+com.doubleservice.bigcitynavigation.R$id: int button_set_route
+com.doubleservice.bigcitynavigation.R$id: int ckBoxRing
+com.doubleservice.bigcitynavigation.R$id: int disabled
+com.doubleservice.bigcitynavigation.R$id: int divide
+com.doubleservice.bigcitynavigation.R$id: int drawerTitle
+com.doubleservice.bigcitynavigation.R$id: int drawer_icon
+com.doubleservice.bigcitynavigation.R$id: int drawer_itemName
+com.doubleservice.bigcitynavigation.R$id: int drawer_layout
+com.doubleservice.bigcitynavigation.R$id: int editBeaconMajor
+com.doubleservice.bigcitynavigation.R$id: int edit_phone
+com.doubleservice.bigcitynavigation.R$id: int edittext_end
+com.doubleservice.bigcitynavigation.R$id: int edittext_start
+com.doubleservice.bigcitynavigation.R$id: int flip
+com.doubleservice.bigcitynavigation.R$id: int friendName
+com.doubleservice.bigcitynavigation.R$id: int friendPhone
+com.doubleservice.bigcitynavigation.R$id: int headerLayout
+com.doubleservice.bigcitynavigation.R$id: int imageView1
+com.doubleservice.bigcitynavigation.R$id: int imageView10
+com.doubleservice.bigcitynavigation.R$id: int imageView11
+com.doubleservice.bigcitynavigation.R$id: int imageView12
+com.doubleservice.bigcitynavigation.R$id: int imageView13
+com.doubleservice.bigcitynavigation.R$id: int imageView14
+com.doubleservice.bigcitynavigation.R$id: int imageView15
+com.doubleservice.bigcitynavigation.R$id: int imageView2
+com.doubleservice.bigcitynavigation.R$id: int imageView3
+com.doubleservice.bigcitynavigation.R$id: int imageView4
+com.doubleservice.bigcitynavigation.R$id: int imageView5
+com.doubleservice.bigcitynavigation.R$id: int imageView6
+com.doubleservice.bigcitynavigation.R$id: int imageView7
+com.doubleservice.bigcitynavigation.R$id: int imageView8
+com.doubleservice.bigcitynavigation.R$id: int imageView9
+com.doubleservice.bigcitynavigation.R$id: int imageline1
+com.doubleservice.bigcitynavigation.R$id: int img
+com.doubleservice.bigcitynavigation.R$id: int imgIsWarning
+com.doubleservice.bigcitynavigation.R$id: int imgIsWarningSound
+com.doubleservice.bigcitynavigation.R$id: int img_btnComplete
+com.doubleservice.bigcitynavigation.R$id: int img_btnDelete
+com.doubleservice.bigcitynavigation.R$id: int img_empty
+com.doubleservice.bigcitynavigation.R$id: int img_navi_setting_start_and_end
+com.doubleservice.bigcitynavigation.R$id: int img_top_view
+com.doubleservice.bigcitynavigation.R$id: int intent_reservation
+com.doubleservice.bigcitynavigation.R$id: int intent_sort
+com.doubleservice.bigcitynavigation.R$id: int itemLayout
+com.doubleservice.bigcitynavigation.R$id: int left_drawer
+com.doubleservice.bigcitynavigation.R$id: int linearLayout1
+com.doubleservice.bigcitynavigation.R$id: int linearLayout2
+com.doubleservice.bigcitynavigation.R$id: int linearLayout3
+com.doubleservice.bigcitynavigation.R$id: int linear_end_setting
+com.doubleservice.bigcitynavigation.R$id: int linear_start_navigation_setting
+com.doubleservice.bigcitynavigation.R$id: int linear_start_setting
+com.doubleservice.bigcitynavigation.R$id: int listView1
+com.doubleservice.bigcitynavigation.R$id: int listViewPage1
+com.doubleservice.bigcitynavigation.R$id: int list_image
+com.doubleservice.bigcitynavigation.R$id: int manualOnly
+com.doubleservice.bigcitynavigation.R$id: int navigationView
+com.doubleservice.bigcitynavigation.R$id: int navigation_main_layout
+com.doubleservice.bigcitynavigation.R$id: int nicknameLayout
+com.doubleservice.bigcitynavigation.R$id: int popup_window_food_and_shop_target_name
+com.doubleservice.bigcitynavigation.R$id: int popupwindow_linear1
+com.doubleservice.bigcitynavigation.R$id: int popupwindow_linear2
+com.doubleservice.bigcitynavigation.R$id: int pullDownFromTop
+com.doubleservice.bigcitynavigation.R$id: int pullFromEnd
+com.doubleservice.bigcitynavigation.R$id: int pullFromStart
+com.doubleservice.bigcitynavigation.R$id: int pullUpFromBottom
+com.doubleservice.bigcitynavigation.R$id: int pupop_window_navigation_target
+com.doubleservice.bigcitynavigation.R$id: int pupop_window_plan_navigation
+com.doubleservice.bigcitynavigation.R$id: int pupop_window_start_locate
+com.doubleservice.bigcitynavigation.R$id: int pupop_window_stop_navigation
+com.doubleservice.bigcitynavigation.R$id: int relativeLayout1
+com.doubleservice.bigcitynavigation.R$id: int rotate
+com.doubleservice.bigcitynavigation.R$id: int scrollView1
+com.doubleservice.bigcitynavigation.R$id: int show_num_picker
+com.doubleservice.bigcitynavigation.R$id: int text
+com.doubleservice.bigcitynavigation.R$id: int text1
+com.doubleservice.bigcitynavigation.R$id: int text2
+com.doubleservice.bigcitynavigation.R$id: int textView1
+com.doubleservice.bigcitynavigation.R$id: int textView2
+com.doubleservice.bigcitynavigation.R$id: int textView3
+com.doubleservice.bigcitynavigation.R$id: int textView4
+com.doubleservice.bigcitynavigation.R$id: int textView5
+com.doubleservice.bigcitynavigation.R$id: int thumbnail
+com.doubleservice.bigcitynavigation.R$id: int timePicker
+com.doubleservice.bigcitynavigation.R$id: int titleLayout
+com.doubleservice.bigcitynavigation.R$id: int topView
+com.doubleservice.bigcitynavigation.R$id: int top_textview
+com.doubleservice.bigcitynavigation.R$id: int txtArea
+com.doubleservice.bigcitynavigation.R$id: int txtBrandContent
+com.doubleservice.bigcitynavigation.R$id: int txtBrandTitle
+com.doubleservice.bigcitynavigation.R$id: int txtCurrentTime
+com.doubleservice.bigcitynavigation.R$id: int txtDetectRegion
+com.doubleservice.bigcitynavigation.R$id: int txtDeviceName
+com.doubleservice.bigcitynavigation.R$id: int txtPeoplePicker
+com.doubleservice.bigcitynavigation.R$id: int txtPromotionalContent
+com.doubleservice.bigcitynavigation.R$id: int txtPromotionalTitle
+com.doubleservice.bigcitynavigation.R$id: int txtSettingTime
+com.doubleservice.bigcitynavigation.R$id: int txtTime
+com.doubleservice.bigcitynavigation.R$id: int txtTimePicker
+com.doubleservice.bigcitynavigation.R$id: int txtWarningDis
+com.doubleservice.bigcitynavigation.R$id: int view
+com.doubleservice.bigcitynavigation.R$id: int view1
+com.doubleservice.bigcitynavigation.R$id: int view2
+com.doubleservice.bigcitynavigation.R$id: int viewpage
+com.doubleservice.bigcitynavigation.R$id: int webView1
+com.doubleservice.bigcitynavigation.R$layout: int actionbar_layout
+com.doubleservice.bigcitynavigation.R$layout: int activity_drawer_layout
+com.doubleservice.bigcitynavigation.R$layout: int activity_main
+com.doubleservice.bigcitynavigation.R$layout: int ad_layout
+com.doubleservice.bigcitynavigation.R$layout: int beacon_setup_layout
+com.doubleservice.bigcitynavigation.R$layout: int brand_content_layout
+com.doubleservice.bigcitynavigation.R$layout: int brand_list_items
+com.doubleservice.bigcitynavigation.R$layout: int brand_list_layout
+com.doubleservice.bigcitynavigation.R$layout: int child_detect_des_page
+com.doubleservice.bigcitynavigation.R$layout: int child_detect_page
+com.doubleservice.bigcitynavigation.R$layout: int custom_drawer_item
+com.doubleservice.bigcitynavigation.R$layout: int dr_list_layout
+com.doubleservice.bigcitynavigation.R$layout: int dr_page_layout
+com.doubleservice.bigcitynavigation.R$layout: int dr_reservation_layout
+com.doubleservice.bigcitynavigation.R$layout: int find_friends_des_layout
+com.doubleservice.bigcitynavigation.R$layout: int friend_item
+com.doubleservice.bigcitynavigation.R$layout: int friend_list_layout
+com.doubleservice.bigcitynavigation.R$layout: int homepage_layout
+com.doubleservice.bigcitynavigation.R$layout: int main_brand_tag_layout
+com.doubleservice.bigcitynavigation.R$layout: int main_promo_tag_layout
+com.doubleservice.bigcitynavigation.R$layout: int member_layout
+com.doubleservice.bigcitynavigation.R$layout: int navigation_popup_window
+com.doubleservice.bigcitynavigation.R$layout: int navigation_popup_window_food_and_shop
+com.doubleservice.bigcitynavigation.R$layout: int navigation_popup_window_friend
+com.doubleservice.bigcitynavigation.R$layout: int navigation_popup_window_parking
+com.doubleservice.bigcitynavigation.R$layout: int navigation_route_setting
+com.doubleservice.bigcitynavigation.R$layout: int park_info
+com.doubleservice.bigcitynavigation.R$layout: int park_time_setting
+com.doubleservice.bigcitynavigation.R$layout: int park_warn_setting
+com.doubleservice.bigcitynavigation.R$layout: int parking_des_page
+com.doubleservice.bigcitynavigation.R$layout: int parking_space_list
+com.doubleservice.bigcitynavigation.R$layout: int parking_time_layout
+com.doubleservice.bigcitynavigation.R$layout: int phone_register_layout
+com.doubleservice.bigcitynavigation.R$layout: int position1f
+com.doubleservice.bigcitynavigation.R$layout: int promotional_content_layout
+com.doubleservice.bigcitynavigation.R$layout: int push_msg_layout
+com.doubleservice.bigcitynavigation.R$layout: int reservation_bynumber_layout
+com.doubleservice.bigcitynavigation.R$layout: int reservation_bytime_layout
+com.doubleservice.bigcitynavigation.R$layout: int reservation_info_layout
+com.doubleservice.bigcitynavigation.R$layout: int units_item
+com.doubleservice.bigcitynavigation.R$menu: int cancel_msg_view
+com.doubleservice.bigcitynavigation.R$menu: int dr_list_menu
+com.doubleservice.bigcitynavigation.R$menu: int main
+com.doubleservice.bigcitynavigation.R$menu: int menu_find_child
+com.doubleservice.bigcitynavigation.R$menu: int menu_navigation
+com.doubleservice.bigcitynavigation.R$menu: int park_setting_bar
+com.doubleservice.bigcitynavigation.R$raw: int doorbell
+com.doubleservice.bigcitynavigation.R$string: int action_bar_item_navigation_setting
+com.doubleservice.bigcitynavigation.R$string: int action_bar_item_select_floor
+com.doubleservice.bigcitynavigation.R$string: int action_bar_item_setting
+com.doubleservice.bigcitynavigation.R$string: int action_settings
+com.doubleservice.bigcitynavigation.R$string: int app_name
+com.doubleservice.bigcitynavigation.R$string: int arrive_target
+com.doubleservice.bigcitynavigation.R$string: int dialig_msg_cant_detect_device
+com.doubleservice.bigcitynavigation.R$string: int dialog_btn_cancel
+com.doubleservice.bigcitynavigation.R$string: int dialog_btn_close
+com.doubleservice.bigcitynavigation.R$string: int dialog_btn_confirm
+com.doubleservice.bigcitynavigation.R$string: int dialog_btn_gosetting
+com.doubleservice.bigcitynavigation.R$string: int dialog_btn_remove
+com.doubleservice.bigcitynavigation.R$string: int dialog_btn_retry
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_beacon_service
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_ble_not_work
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_child_gone
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_delete_beacon
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_download_fail_tips
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_find_friend_tips
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_function_building
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_get_contact_list_fail
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_get_file
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_gotomap
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_no_reservation
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_park_delete
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_parking_ontime
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_parking_space
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_people1
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_people2
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_people3
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_people4
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_people5
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_reservation1
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_reservation2
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_reservation_cancel
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_reservation_content
+com.doubleservice.bigcitynavigation.R$string: int dialog_msg_reservation_success
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_child_gone
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_download_fail
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_get_push_msg
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_no_reservation
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_park_delete
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_park_time_setting
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_parking_space_choice
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_parking_warning
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_reservation_cancel
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_reservation_method
+com.doubleservice.bigcitynavigation.R$string: int dialog_title_reservation_success
+com.doubleservice.bigcitynavigation.R$string: int hello_world
+com.doubleservice.bigcitynavigation.R$string: int layout_btn_backward
+com.doubleservice.bigcitynavigation.R$string: int layout_btn_complete
+com.doubleservice.bigcitynavigation.R$string: int layout_btn_confirm
+com.doubleservice.bigcitynavigation.R$string: int layout_btn_start
+com.doubleservice.bigcitynavigation.R$string: int layout_find_child_des
+com.doubleservice.bigcitynavigation.R$string: int layout_find_child_edittext_hint
+com.doubleservice.bigcitynavigation.R$string: int layout_find_child_field
+com.doubleservice.bigcitynavigation.R$string: int layout_find_child_txt1
+com.doubleservice.bigcitynavigation.R$string: int layout_find_friend_des
+com.doubleservice.bigcitynavigation.R$string: int layout_list_item1
+com.doubleservice.bigcitynavigation.R$string: int layout_list_item2
+com.doubleservice.bigcitynavigation.R$string: int layout_list_item3
+com.doubleservice.bigcitynavigation.R$string: int layout_list_item4
+com.doubleservice.bigcitynavigation.R$string: int layout_list_item5
+com.doubleservice.bigcitynavigation.R$string: int layout_navigation_setting_current_locate
+com.doubleservice.bigcitynavigation.R$string: int layout_navigation_setting_end
+com.doubleservice.bigcitynavigation.R$string: int layout_navigation_setting_select_end
+com.doubleservice.bigcitynavigation.R$string: int layout_navigation_setting_select_start
+com.doubleservice.bigcitynavigation.R$string: int layout_navigation_setting_start
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_des
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_set
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_setting
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_setting_str
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_setting_str2
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_space
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time1
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time10
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time11
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time12
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time13
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time2
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time3
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time4
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time5
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time6
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time7
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time8
+com.doubleservice.bigcitynavigation.R$string: int layout_parking_time9
+com.doubleservice.bigcitynavigation.R$string: int layout_reservation_des
+com.doubleservice.bigcitynavigation.R$string: int layout_reservation_people
+com.doubleservice.bigcitynavigation.R$string: int layout_reservation_time
+com.doubleservice.bigcitynavigation.R$string: int layout_title_park_setting
+com.doubleservice.bigcitynavigation.R$string: int layout_title_reservation
+com.doubleservice.bigcitynavigation.R$string: int map_parking_area_a
+com.doubleservice.bigcitynavigation.R$string: int map_parking_map_name
+com.doubleservice.bigcitynavigation.R$string: int menu_account
+com.doubleservice.bigcitynavigation.R$string: int menu_close
+com.doubleservice.bigcitynavigation.R$string: int menu_dr_list_reservation
+com.doubleservice.bigcitynavigation.R$string: int menu_dr_list_sort
+com.doubleservice.bigcitynavigation.R$string: int menu_dr_list_sort1
+com.doubleservice.bigcitynavigation.R$string: int menu_dr_list_sort2
+com.doubleservice.bigcitynavigation.R$string: int menu_dr_list_sort3
+com.doubleservice.bigcitynavigation.R$string: int menu_dr_list_sort_title
+com.doubleservice.bigcitynavigation.R$string: int menu_find_brand
+com.doubleservice.bigcitynavigation.R$string: int menu_find_child
+com.doubleservice.bigcitynavigation.R$string: int menu_find_friend
+com.doubleservice.bigcitynavigation.R$string: int menu_find_promotion
+com.doubleservice.bigcitynavigation.R$string: int menu_floor
+com.doubleservice.bigcitynavigation.R$string: int menu_food
+com.doubleservice.bigcitynavigation.R$string: int menu_happygo
+com.doubleservice.bigcitynavigation.R$string: int menu_home
+com.doubleservice.bigcitynavigation.R$string: int menu_member
+com.doubleservice.bigcitynavigation.R$string: int menu_navigation
+com.doubleservice.bigcitynavigation.R$string: int menu_news
+com.doubleservice.bigcitynavigation.R$string: int menu_open
+com.doubleservice.bigcitynavigation.R$string: int menu_parking
+com.doubleservice.bigcitynavigation.R$string: int menu_push_msg
+com.doubleservice.bigcitynavigation.R$string: int menu_pushad
+com.doubleservice.bigcitynavigation.R$string: int notification_msg_ad
+com.doubleservice.bigcitynavigation.R$string: int notification_title_ad
+com.doubleservice.bigcitynavigation.R$string: int parking_elevator
+com.doubleservice.bigcitynavigation.R$string: int popup_navigation
+com.doubleservice.bigcitynavigation.R$string: int progress_dialog_msg_change_map
+com.doubleservice.bigcitynavigation.R$string: int progress_dialog_msg_contactlist_refresh
+com.doubleservice.bigcitynavigation.R$string: int progress_dialog_msg_download
+com.doubleservice.bigcitynavigation.R$string: int progress_dialog_msg_get_friend_location
+com.doubleservice.bigcitynavigation.R$string: int progress_dialog_title_contactlist_refresh
+com.doubleservice.bigcitynavigation.R$string: int progress_dialog_title_download
+com.doubleservice.bigcitynavigation.R$string: int progress_dialog_title_get_file
+com.doubleservice.bigcitynavigation.R$string: int progress_dialog_title_wait
+com.doubleservice.bigcitynavigation.R$string: int setting_warn
+com.doubleservice.bigcitynavigation.R$string: int setting_warn_region
+com.doubleservice.bigcitynavigation.R$string: int setting_warn_ring
+com.doubleservice.bigcitynavigation.R$string: int setting_warn_sound
+com.doubleservice.bigcitynavigation.R$string: int shop1
+com.doubleservice.bigcitynavigation.R$string: int shop2
+com.doubleservice.bigcitynavigation.R$string: int shop3
+com.doubleservice.bigcitynavigation.R$string: int shop4
+com.doubleservice.bigcitynavigation.R$string: int shop5
+com.doubleservice.bigcitynavigation.R$string: int shop6
+com.doubleservice.bigcitynavigation.R$string: int toast_str_ble_not_work
+com.doubleservice.bigcitynavigation.R$string: int toast_str_delete_beacon
+com.doubleservice.bigcitynavigation.R$string: int toast_str_detect_current_and_target_not_in_same_floor
+com.doubleservice.bigcitynavigation.R$string: int toast_str_detect_not_in_floor
+com.doubleservice.bigcitynavigation.R$string: int toast_str_findfriend_fail
+com.doubleservice.bigcitynavigation.R$string: int toast_str_fingerprint_download_fail
+com.doubleservice.bigcitynavigation.R$string: int toast_str_fingerprint_download_ok
+com.doubleservice.bigcitynavigation.R$string: int toast_str_goto7f
+com.doubleservice.bigcitynavigation.R$string: int toast_str_locate_out_of_time
+com.doubleservice.bigcitynavigation.R$string: int toast_str_no_navitarget_data
+com.doubleservice.bigcitynavigation.R$string: int toast_str_park_delete
+com.doubleservice.bigcitynavigation.R$string: int toast_str_park_setting
+com.doubleservice.bigcitynavigation.R$string: int toast_str_reserve_ok
+com.doubleservice.bigcitynavigation.R$string: int toast_str_wrong_beacon_number
+com.doubleservice.bigcitynavigation.R$string: int toast_str_wrong_phone_number
+com.doubleservice.bigcitynavigation.R$style: int AppBaseTheme
+com.doubleservice.bigcitynavigation.R$style: int AppTheme
+com.doubleservice.bigcitynavigation.R$style: int CustomActionBar
+com.doubleservice.bigcitynavigation.R$style: int MyActionBarStyle
+com.doubleservice.bigcitynavigation.R$style: int MyActionBarTitleText
+com.doubleservice.bigcitynavigation.R$style: int anim_popup_window
+com.doubleservice.bigcitynavigation.R$styleable: int[] FoldingMenu
+com.doubleservice.bigcitynavigation.R$styleable: int FoldingMenu_foldNumber
+com.doubleservice.bigcitynavigation.R$styleable: int[] PullToRefresh
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrAdapterViewBackground
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrAnimationStyle
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrDrawable
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrDrawableBottom
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrDrawableEnd
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrDrawableStart
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrDrawableTop
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrHeaderBackground
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrHeaderSubTextColor
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrHeaderTextAppearance
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrHeaderTextColor
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrListViewExtrasEnabled
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrMode
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrOverScroll
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrRefreshableViewBackground
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrRotateDrawableWhilePulling
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrScrollingWhileRefreshingEnabled
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrShowIndicator
+com.doubleservice.bigcitynavigation.R$styleable: int PullToRefresh_ptrSubHeaderTextAppearance
+com.doubleservice.bigcitynavigation.R$styleable: int[] Switch
+com.doubleservice.bigcitynavigation.R$styleable: int Switch_switchMinWidth
+com.doubleservice.bigcitynavigation.R$styleable: int Switch_switchPadding
+com.doubleservice.bigcitynavigation.R$styleable: int Switch_switchTextAppearance
+com.doubleservice.bigcitynavigation.R$styleable: int Switch_textOff
+com.doubleservice.bigcitynavigation.R$styleable: int Switch_textOn
+com.doubleservice.bigcitynavigation.R$styleable: int Switch_thumb
+com.doubleservice.bigcitynavigation.R$styleable: int Switch_thumbTextPadding
+com.doubleservice.bigcitynavigation.R$styleable: int Switch_track
+com.doubleservice.bigcitynavigation.R$styleable: int[] TextAppearance
+com.doubleservice.bigcitynavigation.R$styleable: int TextAppearance_android_textColor
+com.doubleservice.bigcitynavigation.R$styleable: int TextAppearance_android_textColorHighlight
+com.doubleservice.bigcitynavigation.R$styleable: int TextAppearance_android_textColorHint
+com.doubleservice.bigcitynavigation.R$styleable: int TextAppearance_android_textColorLink
+com.doubleservice.bigcitynavigation.R$styleable: int TextAppearance_android_textSize
+com.doubleservice.bigcitynavigation.R$styleable: int TextAppearance_android_textStyle
+com.doubleservice.bigcitynavigation.R$styleable: int TextAppearance_android_typeface
+com.doubleservice.bigcitynavigation.R$styleable: int TextAppearance_textAllCaps
+com.doubleservice.bigcitynavigation.R$xml: int beacon_preference
+com.doubleservice.bigcitynavigation.WiFiService
+com.doubleservice.bigcitynavigation.WiFiService: WiFiService()
+com.doubleservice.bigcitynavigation.drawer.BaseDrawerActivity
+com.doubleservice.bigcitynavigation.drawer.BaseDrawerActivity: BaseDrawerActivity()
+com.doubleservice.brand.BrandList
+com.doubleservice.brand.BrandList: BrandList()
+com.doubleservice.brand.FreeBrandPage
+com.doubleservice.brand.FreeBrandPage: FreeBrandPage()
+com.doubleservice.brand.MainBrandLayout
+com.doubleservice.brand.MainBrandLayout: MainBrandLayout()
+com.doubleservice.dr.DinningRoomList
+com.doubleservice.dr.DinningRoomList: DinningRoomList()
+com.doubleservice.dr.FreeDinningRoomPage
+com.doubleservice.dr.FreeDinningRoomPage: FreeDinningRoomPage()
+com.doubleservice.dr.FreeReservation
+com.doubleservice.dr.FreeReservation: FreeReservation()
+com.doubleservice.dr.FreeReservationByNumber
+com.doubleservice.dr.FreeReservationByNumber: FreeReservationByNumber()
+com.doubleservice.dr.FreeReservationByTime
+com.doubleservice.dr.FreeReservationByTime: FreeReservationByTime()
+com.doubleservice.dr.FreeReservationInfo
+com.doubleservice.dr.FreeReservationInfo: FreeReservationInfo()
+com.doubleservice.findchild.ChildBeaconSetup
+com.doubleservice.findchild.ChildBeaconSetup: ChildBeaconSetup()
+com.doubleservice.findchild.ChildDetectService
+com.doubleservice.findchild.ChildDetectService: ChildDetectService()
+com.doubleservice.findchild.DetectPage
+com.doubleservice.findchild.DetectPage: DetectPage()
+com.doubleservice.findchild.FindChildDescription
+com.doubleservice.findchild.FindChildDescription: FindChildDescription()
+com.doubleservice.findfriends.FindFriendDes
+com.doubleservice.findfriends.FindFriendDes: FindFriendDes()
+com.doubleservice.findfriends.FriendList
+com.doubleservice.findfriends.FriendList: FriendList()
+com.doubleservice.parking.ParkAlarmReceiver
+com.doubleservice.parking.ParkAlarmReceiver: ParkAlarmReceiver()
+com.doubleservice.parking.ParkDescription
+com.doubleservice.parking.ParkDescription: ParkDescription()
+com.doubleservice.parking.ParkWarningSetting
+com.doubleservice.parking.ParkWarningSetting: ParkWarningSetting()
+com.doubleservice.parking.UserParkingInfo
+com.doubleservice.parking.UserParkingInfo: UserParkingInfo()
+com.doubleservice.promotional.FreePromotionalPage
+com.doubleservice.promotional.FreePromotionalPage: FreePromotionalPage()
+com.doubleservice.promotional.MainPromotional
+com.doubleservice.promotional.MainPromotional: MainPromotional()
+com.doubleservice.promotional.PromotionalList
+com.doubleservice.promotional.PromotionalList: PromotionalList()
+com.james.views.FreeEditText: void setPicSize(int)
+com.james.views.FreeEditText: void setTextSizeFitSp(float)
+com.james.views.FreeEditText: void setTextSizeFitPx(float)
+com.james.views.FreeLayout: void setDatum(int)
+com.james.views.FreeLayout: void setPicSize(int)
+com.james.views.FreeLayout: void setImageCrop(android.widget.ImageView)
+com.james.views.FreeTextButton: void setPicSize(int)
+com.james.views.FreeTextButton: void setTextSizeFitSp(float)
+com.james.views.FreeTextButton: void setTextSizeFitPx(float)
+com.james.views.FreeTextView: void setPicSize(int)
+com.james.views.FreeTextView: void setTextSizeFitSp(float)
+com.james.views.FreeTextView: void setTextSizeFitPx(float)
+com.longevitysoft.android.xml.plist.PListXMLHandler$ParseMode: com.longevitysoft.android.xml.plist.PListXMLHandler$ParseMode[] values()
+com.longevitysoft.android.xml.plist.PListXMLHandler$ParseMode: com.longevitysoft.android.xml.plist.PListXMLHandler$ParseMode valueOf(java.lang.String)
+com.longevitysoft.android.xml.plist.domain.PListObjectType: com.longevitysoft.android.xml.plist.domain.PListObjectType[] values()
+com.longevitysoft.android.xml.plist.domain.PListObjectType: com.longevitysoft.android.xml.plist.domain.PListObjectType valueOf(java.lang.String)
+com.radiusnetworks.ibeacon.BleNotAvailableException
+com.radiusnetworks.ibeacon.BleNotAvailableException: long serialVersionUID
+com.radiusnetworks.ibeacon.BleNotAvailableException: BleNotAvailableException(java.lang.String)
+com.radiusnetworks.ibeacon.IBeacon
+com.radiusnetworks.ibeacon.IBeacon: int PROXIMITY_IMMEDIATE
+com.radiusnetworks.ibeacon.IBeacon: int PROXIMITY_NEAR
+com.radiusnetworks.ibeacon.IBeacon: int PROXIMITY_FAR
+com.radiusnetworks.ibeacon.IBeacon: int PROXIMITY_UNKNOWN
+com.radiusnetworks.ibeacon.IBeacon: char[] hexArray
+com.radiusnetworks.ibeacon.IBeacon: java.lang.String TAG
+com.radiusnetworks.ibeacon.IBeacon: java.lang.String proximityUuid
+com.radiusnetworks.ibeacon.IBeacon: int major
+com.radiusnetworks.ibeacon.IBeacon: int minor
+com.radiusnetworks.ibeacon.IBeacon: java.lang.Integer proximity
+com.radiusnetworks.ibeacon.IBeacon: java.lang.Double accuracy
+com.radiusnetworks.ibeacon.IBeacon: int rssi
+com.radiusnetworks.ibeacon.IBeacon: int txPower
+com.radiusnetworks.ibeacon.IBeacon: java.lang.Double runningAverageRssi
+com.radiusnetworks.ibeacon.IBeacon: com.radiusnetworks.ibeacon.client.IBeaconDataFactory iBeaconDataFactory
+com.radiusnetworks.ibeacon.IBeacon: double getAccuracy()
+com.radiusnetworks.ibeacon.IBeacon: int getMajor()
+com.radiusnetworks.ibeacon.IBeacon: int getMinor()
+com.radiusnetworks.ibeacon.IBeacon: int getProximity()
+com.radiusnetworks.ibeacon.IBeacon: int getRssi()
+com.radiusnetworks.ibeacon.IBeacon: int getTxPower()
+com.radiusnetworks.ibeacon.IBeacon: java.lang.String getProximityUuid()
+com.radiusnetworks.ibeacon.IBeacon: int hashCode()
+com.radiusnetworks.ibeacon.IBeacon: boolean equals(java.lang.Object)
+com.radiusnetworks.ibeacon.IBeacon: com.radiusnetworks.ibeacon.IBeacon fromScanData(byte[],int)
+com.radiusnetworks.ibeacon.IBeacon: void requestData(com.radiusnetworks.ibeacon.IBeaconDataNotifier)
+com.radiusnetworks.ibeacon.IBeacon: IBeacon(com.radiusnetworks.ibeacon.IBeacon)
+com.radiusnetworks.ibeacon.IBeacon: IBeacon()
+com.radiusnetworks.ibeacon.IBeacon: IBeacon(java.lang.String,int,int,int,int)
+com.radiusnetworks.ibeacon.IBeacon: IBeacon(java.lang.String,int,int)
+com.radiusnetworks.ibeacon.IBeacon: double calculateAccuracy(int,double)
+com.radiusnetworks.ibeacon.IBeacon: int calculateProximity(double)
+com.radiusnetworks.ibeacon.IBeacon: java.lang.String bytesToHex(byte[])
+com.radiusnetworks.ibeacon.IBeacon: void <clinit>()
+com.radiusnetworks.ibeacon.IBeaconConsumer
+com.radiusnetworks.ibeacon.IBeaconConsumer: void onIBeaconServiceConnect()
+com.radiusnetworks.ibeacon.IBeaconConsumer: android.content.Context getApplicationContext()
+com.radiusnetworks.ibeacon.IBeaconConsumer: void unbindService(android.content.ServiceConnection)
+com.radiusnetworks.ibeacon.IBeaconConsumer: boolean bindService(android.content.Intent,android.content.ServiceConnection,int)
+com.radiusnetworks.ibeacon.IBeaconData
+com.radiusnetworks.ibeacon.IBeaconData: java.lang.Double getLatitude()
+com.radiusnetworks.ibeacon.IBeaconData: void setLatitude(java.lang.Double)
+com.radiusnetworks.ibeacon.IBeaconData: void setLongitude(java.lang.Double)
+com.radiusnetworks.ibeacon.IBeaconData: java.lang.Double getLongitude()
+com.radiusnetworks.ibeacon.IBeaconData: java.lang.String get(java.lang.String)
+com.radiusnetworks.ibeacon.IBeaconData: void set(java.lang.String,java.lang.String)
+com.radiusnetworks.ibeacon.IBeaconData: void sync(com.radiusnetworks.ibeacon.IBeaconDataNotifier)
+com.radiusnetworks.ibeacon.IBeaconData: boolean isDirty()
+com.radiusnetworks.ibeacon.IBeaconDataNotifier
+com.radiusnetworks.ibeacon.IBeaconDataNotifier: void iBeaconDataUpdate(com.radiusnetworks.ibeacon.IBeacon,com.radiusnetworks.ibeacon.IBeaconData,com.radiusnetworks.ibeacon.client.DataProviderException)
+com.radiusnetworks.ibeacon.IBeaconIntentProcessor
+com.radiusnetworks.ibeacon.IBeaconIntentProcessor: java.lang.String TAG
+com.radiusnetworks.ibeacon.IBeaconIntentProcessor: boolean initialized
+com.radiusnetworks.ibeacon.IBeaconIntentProcessor: IBeaconIntentProcessor()
+com.radiusnetworks.ibeacon.IBeaconIntentProcessor: void onHandleIntent(android.content.Intent)
+com.radiusnetworks.ibeacon.IBeaconManager
+com.radiusnetworks.ibeacon.IBeaconManager: java.lang.String TAG
+com.radiusnetworks.ibeacon.IBeaconManager: android.content.Context context
+com.radiusnetworks.ibeacon.IBeaconManager: com.radiusnetworks.ibeacon.IBeaconManager client
+com.radiusnetworks.ibeacon.IBeaconManager: java.util.Map consumers
+com.radiusnetworks.ibeacon.IBeaconManager: android.os.Messenger serviceMessenger
+com.radiusnetworks.ibeacon.IBeaconManager: com.radiusnetworks.ibeacon.RangeNotifier rangeNotifier
+com.radiusnetworks.ibeacon.IBeaconManager: com.radiusnetworks.ibeacon.MonitorNotifier monitorNotifier
+com.radiusnetworks.ibeacon.IBeaconManager: com.radiusnetworks.ibeacon.client.RangingTracker rangingTracker
+com.radiusnetworks.ibeacon.IBeaconManager: boolean LOG_DEBUG
+com.radiusnetworks.ibeacon.IBeaconManager: long DEFAULT_FOREGROUND_SCAN_PERIOD
+com.radiusnetworks.ibeacon.IBeaconManager: long DEFAULT_FOREGROUND_BETWEEN_SCAN_PERIOD
+com.radiusnetworks.ibeacon.IBeaconManager: long DEFAULT_BACKGROUND_SCAN_PERIOD
+com.radiusnetworks.ibeacon.IBeaconManager: long DEFAULT_BACKGROUND_BETWEEN_SCAN_PERIOD
+com.radiusnetworks.ibeacon.IBeaconManager: long foregroundScanPeriod
+com.radiusnetworks.ibeacon.IBeaconManager: long foregroundBetweenScanPeriod
+com.radiusnetworks.ibeacon.IBeaconManager: long backgroundScanPeriod
+com.radiusnetworks.ibeacon.IBeaconManager: long backgroundBetweenScanPeriod
+com.radiusnetworks.ibeacon.IBeaconManager: android.content.ServiceConnection iBeaconServiceConnection
+com.radiusnetworks.ibeacon.IBeaconManager: void setForegroundScanPeriod(long)
+com.radiusnetworks.ibeacon.IBeaconManager: void setForegroundBetweenScanPeriod(long)
+com.radiusnetworks.ibeacon.IBeaconManager: void setBackgroundScanPeriod(long)
+com.radiusnetworks.ibeacon.IBeaconManager: void setBackgroundBetweenScanPeriod(long)
+com.radiusnetworks.ibeacon.IBeaconManager: com.radiusnetworks.ibeacon.IBeaconManager getInstanceForApplication(android.content.Context)
+com.radiusnetworks.ibeacon.IBeaconManager: IBeaconManager(android.content.Context)
+com.radiusnetworks.ibeacon.IBeaconManager: boolean checkAvailability()
+com.radiusnetworks.ibeacon.IBeaconManager: void bind(com.radiusnetworks.ibeacon.IBeaconConsumer)
+com.radiusnetworks.ibeacon.IBeaconManager: void unBind(com.radiusnetworks.ibeacon.IBeaconConsumer)
+com.radiusnetworks.ibeacon.IBeaconManager: boolean isBound(com.radiusnetworks.ibeacon.IBeaconConsumer)
+com.radiusnetworks.ibeacon.IBeaconManager: boolean setBackgroundMode(com.radiusnetworks.ibeacon.IBeaconConsumer,boolean)
+com.radiusnetworks.ibeacon.IBeaconManager: void setRangeNotifier(com.radiusnetworks.ibeacon.RangeNotifier)
+com.radiusnetworks.ibeacon.IBeaconManager: void setMonitorNotifier(com.radiusnetworks.ibeacon.MonitorNotifier)
+com.radiusnetworks.ibeacon.IBeaconManager: void startRangingBeaconsInRegion(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.IBeaconManager: void stopRangingBeaconsInRegion(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.IBeaconManager: void startMonitoringBeaconsInRegion(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.IBeaconManager: void stopMonitoringBeaconsInRegion(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.IBeaconManager: void setScanPeriods()
+com.radiusnetworks.ibeacon.IBeaconManager: java.lang.String callbackPackageName()
+com.radiusnetworks.ibeacon.IBeaconManager: com.radiusnetworks.ibeacon.MonitorNotifier getMonitoringNotifier()
+com.radiusnetworks.ibeacon.IBeaconManager: com.radiusnetworks.ibeacon.RangeNotifier getRangingNotifier()
+com.radiusnetworks.ibeacon.IBeaconManager: boolean isInBackground()
+com.radiusnetworks.ibeacon.IBeaconManager: long getScanPeriod()
+com.radiusnetworks.ibeacon.IBeaconManager: long getBetweenScanPeriod()
+com.radiusnetworks.ibeacon.IBeaconManager: android.os.Messenger access$102(com.radiusnetworks.ibeacon.IBeaconManager,android.os.Messenger)
+com.radiusnetworks.ibeacon.IBeaconManager: java.util.Map access$200(com.radiusnetworks.ibeacon.IBeaconManager)
+com.radiusnetworks.ibeacon.IBeaconManager: void <clinit>()
+com.radiusnetworks.ibeacon.IBeaconManager$1
+com.radiusnetworks.ibeacon.IBeaconManager$1: com.radiusnetworks.ibeacon.IBeaconManager this$0
+com.radiusnetworks.ibeacon.IBeaconManager$1: IBeaconManager$1(com.radiusnetworks.ibeacon.IBeaconManager)
+com.radiusnetworks.ibeacon.IBeaconManager$1: void onServiceConnected(android.content.ComponentName,android.os.IBinder)
+com.radiusnetworks.ibeacon.IBeaconManager$1: void onServiceDisconnected(android.content.ComponentName)
+com.radiusnetworks.ibeacon.IBeaconManager$ConsumerInfo
+com.radiusnetworks.ibeacon.IBeaconManager$ConsumerInfo: boolean isConnected
+com.radiusnetworks.ibeacon.IBeaconManager$ConsumerInfo: boolean isInBackground
+com.radiusnetworks.ibeacon.IBeaconManager$ConsumerInfo: com.radiusnetworks.ibeacon.IBeaconManager this$0
+com.radiusnetworks.ibeacon.IBeaconManager$ConsumerInfo: IBeaconManager$ConsumerInfo(com.radiusnetworks.ibeacon.IBeaconManager)
+com.radiusnetworks.ibeacon.IBeaconManager$ConsumerInfo: IBeaconManager$ConsumerInfo(com.radiusnetworks.ibeacon.IBeaconManager,com.radiusnetworks.ibeacon.IBeaconManager$1)
+com.radiusnetworks.ibeacon.MonitorNotifier
+com.radiusnetworks.ibeacon.MonitorNotifier: int INSIDE
+com.radiusnetworks.ibeacon.MonitorNotifier: int OUTSIDE
+com.radiusnetworks.ibeacon.MonitorNotifier: void didEnterRegion(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.MonitorNotifier: void didExitRegion(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.MonitorNotifier: void didDetermineStateForRegion(int,com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.RangeNotifier
+com.radiusnetworks.ibeacon.RangeNotifier: void didRangeBeaconsInRegion(java.util.Collection,com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.Region
+com.radiusnetworks.ibeacon.Region: java.lang.String TAG
+com.radiusnetworks.ibeacon.Region: java.lang.Integer major
+com.radiusnetworks.ibeacon.Region: java.lang.Integer minor
+com.radiusnetworks.ibeacon.Region: java.lang.String proximityUuid
+com.radiusnetworks.ibeacon.Region: java.lang.String uniqueId
+com.radiusnetworks.ibeacon.Region: Region(java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer)
+com.radiusnetworks.ibeacon.Region: java.lang.Integer getMajor()
+com.radiusnetworks.ibeacon.Region: java.lang.Integer getMinor()
+com.radiusnetworks.ibeacon.Region: java.lang.String getProximityUuid()
+com.radiusnetworks.ibeacon.Region: java.lang.String getUniqueId()
+com.radiusnetworks.ibeacon.Region: boolean matchesIBeacon(com.radiusnetworks.ibeacon.IBeacon)
+com.radiusnetworks.ibeacon.Region: Region(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.Region: Region()
+com.radiusnetworks.ibeacon.Region: int hashCode()
+com.radiusnetworks.ibeacon.Region: boolean equals(java.lang.Object)
+com.radiusnetworks.ibeacon.Region: java.lang.String toString()
+com.radiusnetworks.ibeacon.Region: java.lang.String normalizeProximityUuid(java.lang.String)
+com.radiusnetworks.ibeacon.client.DataProviderException
+com.radiusnetworks.ibeacon.client.DataProviderException: long serialVersionUID
+com.radiusnetworks.ibeacon.client.DataProviderException: DataProviderException()
+com.radiusnetworks.ibeacon.client.DataProviderException: DataProviderException(java.lang.String)
+com.radiusnetworks.ibeacon.client.DataProviderException: DataProviderException(java.lang.String,java.lang.Throwable)
+com.radiusnetworks.ibeacon.client.IBeaconDataFactory
+com.radiusnetworks.ibeacon.client.IBeaconDataFactory: void requestIBeaconData(com.radiusnetworks.ibeacon.IBeacon,com.radiusnetworks.ibeacon.IBeaconDataNotifier)
+com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory
+com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory: NullIBeaconDataFactory()
+com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory: void requestIBeaconData(com.radiusnetworks.ibeacon.IBeacon,com.radiusnetworks.ibeacon.IBeaconDataNotifier)
+com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory$1
+com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory$1: com.radiusnetworks.ibeacon.IBeaconDataNotifier val$notifier
+com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory$1: com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory this$0
+com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory$1: NullIBeaconDataFactory$1(com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory,com.radiusnetworks.ibeacon.IBeaconDataNotifier)
+com.radiusnetworks.ibeacon.client.NullIBeaconDataFactory$1: void run()
+com.radiusnetworks.ibeacon.client.RangedIBeacon
+com.radiusnetworks.ibeacon.client.RangedIBeacon: java.lang.String TAG
+com.radiusnetworks.ibeacon.client.RangedIBeacon: long DEFAULT_SAMPLE_EXPIRATION_MILLISECONDS
+com.radiusnetworks.ibeacon.client.RangedIBeacon: long sampleExpirationMilliseconds
+com.radiusnetworks.ibeacon.client.RangedIBeacon: java.util.ArrayList measurements
+com.radiusnetworks.ibeacon.client.RangedIBeacon: RangedIBeacon(com.radiusnetworks.ibeacon.IBeacon)
+com.radiusnetworks.ibeacon.client.RangedIBeacon: void setSampleExpirationMilliseconds(long)
+com.radiusnetworks.ibeacon.client.RangedIBeacon: void addMeasurement(java.lang.Integer)
+com.radiusnetworks.ibeacon.client.RangedIBeacon: boolean allMeasurementsExpired()
+com.radiusnetworks.ibeacon.client.RangedIBeacon: void refreshMeasurements()
+com.radiusnetworks.ibeacon.client.RangedIBeacon: double calculateRunningAverage()
+com.radiusnetworks.ibeacon.client.RangedIBeacon: void addRangeMeasurement(java.lang.Integer)
+com.radiusnetworks.ibeacon.client.RangedIBeacon: void <clinit>()
+com.radiusnetworks.ibeacon.client.RangedIBeacon$1
+com.radiusnetworks.ibeacon.client.RangedIBeacon$Measurement
+com.radiusnetworks.ibeacon.client.RangedIBeacon$Measurement: java.lang.Integer rssi
+com.radiusnetworks.ibeacon.client.RangedIBeacon$Measurement: long timestamp
+com.radiusnetworks.ibeacon.client.RangedIBeacon$Measurement: com.radiusnetworks.ibeacon.client.RangedIBeacon this$0
+com.radiusnetworks.ibeacon.client.RangedIBeacon$Measurement: RangedIBeacon$Measurement(com.radiusnetworks.ibeacon.client.RangedIBeacon)
+com.radiusnetworks.ibeacon.client.RangedIBeacon$Measurement: int compareTo(com.radiusnetworks.ibeacon.client.RangedIBeacon$Measurement)
+com.radiusnetworks.ibeacon.client.RangedIBeacon$Measurement: int compareTo(java.lang.Object)
+com.radiusnetworks.ibeacon.client.RangedIBeacon$Measurement: RangedIBeacon$Measurement(com.radiusnetworks.ibeacon.client.RangedIBeacon,com.radiusnetworks.ibeacon.client.RangedIBeacon$1)
+com.radiusnetworks.ibeacon.client.RangingTracker
+com.radiusnetworks.ibeacon.client.RangingTracker: java.lang.String TAG
+com.radiusnetworks.ibeacon.client.RangingTracker: java.util.Map rangedIBeacons
+com.radiusnetworks.ibeacon.client.RangingTracker: RangingTracker()
+com.radiusnetworks.ibeacon.client.RangingTracker: void addIBeacon(com.radiusnetworks.ibeacon.IBeacon)
+com.radiusnetworks.ibeacon.client.RangingTracker: java.util.Collection getIBeacons()
+com.radiusnetworks.ibeacon.client.RangingTracker: void <clinit>()
+com.radiusnetworks.ibeacon.service.Callback
+com.radiusnetworks.ibeacon.service.Callback: java.lang.String TAG
+com.radiusnetworks.ibeacon.service.Callback: android.os.Messenger messenger
+com.radiusnetworks.ibeacon.service.Callback: android.content.Intent intent
+com.radiusnetworks.ibeacon.service.Callback: Callback(java.lang.String)
+com.radiusnetworks.ibeacon.service.Callback: android.content.Intent getIntent()
+com.radiusnetworks.ibeacon.service.Callback: void setIntent(android.content.Intent)
+com.radiusnetworks.ibeacon.service.Callback: boolean call(android.content.Context,java.lang.String,android.os.Parcelable)
+com.radiusnetworks.ibeacon.service.IBeaconData
+com.radiusnetworks.ibeacon.service.IBeaconData: android.os.Parcelable$Creator CREATOR
+com.radiusnetworks.ibeacon.service.IBeaconData: IBeaconData(com.radiusnetworks.ibeacon.IBeacon)
+com.radiusnetworks.ibeacon.service.IBeaconData: java.util.Collection fromIBeacons(java.util.Collection)
+com.radiusnetworks.ibeacon.service.IBeaconData: java.util.Collection fromIBeaconDatas(java.util.Collection)
+com.radiusnetworks.ibeacon.service.IBeaconData: int describeContents()
+com.radiusnetworks.ibeacon.service.IBeaconData: void writeToParcel(android.os.Parcel,int)
+com.radiusnetworks.ibeacon.service.IBeaconData: IBeaconData(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.IBeaconData: IBeaconData(android.os.Parcel,com.radiusnetworks.ibeacon.service.IBeaconData$1)
+com.radiusnetworks.ibeacon.service.IBeaconData: void <clinit>()
+com.radiusnetworks.ibeacon.service.IBeaconData$1
+com.radiusnetworks.ibeacon.service.IBeaconData$1: IBeaconData$1()
+com.radiusnetworks.ibeacon.service.IBeaconData$1: com.radiusnetworks.ibeacon.service.IBeaconData createFromParcel(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.IBeaconData$1: com.radiusnetworks.ibeacon.service.IBeaconData[] newArray(int)
+com.radiusnetworks.ibeacon.service.IBeaconData$1: java.lang.Object[] newArray(int)
+com.radiusnetworks.ibeacon.service.IBeaconData$1: java.lang.Object createFromParcel(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.IBeaconService
+com.radiusnetworks.ibeacon.service.IBeaconService: java.lang.String TAG
+com.radiusnetworks.ibeacon.service.IBeaconService: java.util.Map rangedRegionState
+com.radiusnetworks.ibeacon.service.IBeaconService: java.util.Map monitoredRegionState
+com.radiusnetworks.ibeacon.service.IBeaconService: android.bluetooth.BluetoothAdapter bluetoothAdapter
+com.radiusnetworks.ibeacon.service.IBeaconService: boolean scanning
+com.radiusnetworks.ibeacon.service.IBeaconService: boolean scanningPaused
+com.radiusnetworks.ibeacon.service.IBeaconService: java.util.Date lastIBeaconDetectionTime
+com.radiusnetworks.ibeacon.service.IBeaconService: java.util.HashSet trackedBeacons
+com.radiusnetworks.ibeacon.service.IBeaconService: android.os.Handler handler
+com.radiusnetworks.ibeacon.service.IBeaconService: int bindCount
+com.radiusnetworks.ibeacon.service.IBeaconService: long scanPeriod
+com.radiusnetworks.ibeacon.service.IBeaconService: long betweenScanPeriod
+com.radiusnetworks.ibeacon.service.IBeaconService: java.util.List simulatedScanData
+com.radiusnetworks.ibeacon.service.IBeaconService: int MSG_START_RANGING
+com.radiusnetworks.ibeacon.service.IBeaconService: int MSG_STOP_RANGING
+com.radiusnetworks.ibeacon.service.IBeaconService: int MSG_START_MONITORING
+com.radiusnetworks.ibeacon.service.IBeaconService: int MSG_STOP_MONITORING
+com.radiusnetworks.ibeacon.service.IBeaconService: int MSG_SET_SCAN_PERIODS
+com.radiusnetworks.ibeacon.service.IBeaconService: android.os.Messenger mMessenger
+com.radiusnetworks.ibeacon.service.IBeaconService: int ongoing_notification_id
+com.radiusnetworks.ibeacon.service.IBeaconService: long lastScanStartTime
+com.radiusnetworks.ibeacon.service.IBeaconService: long lastScanEndTime
+com.radiusnetworks.ibeacon.service.IBeaconService: long nextScanStartTime
+com.radiusnetworks.ibeacon.service.IBeaconService: long scanStopTime
+com.radiusnetworks.ibeacon.service.IBeaconService: android.bluetooth.BluetoothAdapter$LeScanCallback leScanCallback
+com.radiusnetworks.ibeacon.service.IBeaconService: IBeaconService()
+com.radiusnetworks.ibeacon.service.IBeaconService: android.os.IBinder onBind(android.content.Intent)
+com.radiusnetworks.ibeacon.service.IBeaconService: boolean onUnbind(android.content.Intent)
+com.radiusnetworks.ibeacon.service.IBeaconService: void onCreate()
+com.radiusnetworks.ibeacon.service.IBeaconService: void onDestroy()
+com.radiusnetworks.ibeacon.service.IBeaconService: boolean isInBackground()
+com.radiusnetworks.ibeacon.service.IBeaconService: void startRangingBeaconsInRegion(com.radiusnetworks.ibeacon.Region,com.radiusnetworks.ibeacon.service.Callback)
+com.radiusnetworks.ibeacon.service.IBeaconService: void stopRangingBeaconsInRegion(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.service.IBeaconService: void startMonitoringBeaconsInRegion(com.radiusnetworks.ibeacon.Region,com.radiusnetworks.ibeacon.service.Callback)
+com.radiusnetworks.ibeacon.service.IBeaconService: void stopMonitoringBeaconsInRegion(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.service.IBeaconService: void setScanPeriods(long,long)
+com.radiusnetworks.ibeacon.service.IBeaconService: void scanLeDevice(java.lang.Boolean)
+com.radiusnetworks.ibeacon.service.IBeaconService: void scheduleScanStop()
+com.radiusnetworks.ibeacon.service.IBeaconService: void finishScanCycle()
+com.radiusnetworks.ibeacon.service.IBeaconService: void processRangeData()
+com.radiusnetworks.ibeacon.service.IBeaconService: void processExpiredMonitors()
+com.radiusnetworks.ibeacon.service.IBeaconService: void processIBeaconFromScan(com.radiusnetworks.ibeacon.IBeacon)
+com.radiusnetworks.ibeacon.service.IBeaconService: java.util.List matchingRegions(com.radiusnetworks.ibeacon.IBeacon,java.util.Collection)
+com.radiusnetworks.ibeacon.service.IBeaconService: boolean anyRangingOrMonitoringRegionsActive()
+com.radiusnetworks.ibeacon.service.IBeaconService: android.bluetooth.BluetoothAdapter getBluetoothAdapter()
+com.radiusnetworks.ibeacon.service.IBeaconService: void access$000(com.radiusnetworks.ibeacon.service.IBeaconService,java.lang.Boolean)
+com.radiusnetworks.ibeacon.service.IBeaconService: void access$100(com.radiusnetworks.ibeacon.service.IBeaconService)
+com.radiusnetworks.ibeacon.service.IBeaconService: void access$300(com.radiusnetworks.ibeacon.service.IBeaconService,com.radiusnetworks.ibeacon.IBeacon)
+com.radiusnetworks.ibeacon.service.IBeaconService$1
+com.radiusnetworks.ibeacon.service.IBeaconService$1: com.radiusnetworks.ibeacon.service.IBeaconService this$0
+com.radiusnetworks.ibeacon.service.IBeaconService$1: IBeaconService$1(com.radiusnetworks.ibeacon.service.IBeaconService)
+com.radiusnetworks.ibeacon.service.IBeaconService$1: void run()
+com.radiusnetworks.ibeacon.service.IBeaconService$2
+com.radiusnetworks.ibeacon.service.IBeaconService$2: com.radiusnetworks.ibeacon.service.IBeaconService this$0
+com.radiusnetworks.ibeacon.service.IBeaconService$2: IBeaconService$2(com.radiusnetworks.ibeacon.service.IBeaconService)
+com.radiusnetworks.ibeacon.service.IBeaconService$2: void run()
+com.radiusnetworks.ibeacon.service.IBeaconService$3
+com.radiusnetworks.ibeacon.service.IBeaconService$3: com.radiusnetworks.ibeacon.service.IBeaconService this$0
+com.radiusnetworks.ibeacon.service.IBeaconService$3: IBeaconService$3(com.radiusnetworks.ibeacon.service.IBeaconService)
+com.radiusnetworks.ibeacon.service.IBeaconService$3: void onLeScan(android.bluetooth.BluetoothDevice,int,byte[])
+com.radiusnetworks.ibeacon.service.IBeaconService$IBeaconBinder
+com.radiusnetworks.ibeacon.service.IBeaconService$IBeaconBinder: com.radiusnetworks.ibeacon.service.IBeaconService this$0
+com.radiusnetworks.ibeacon.service.IBeaconService$IBeaconBinder: IBeaconService$IBeaconBinder(com.radiusnetworks.ibeacon.service.IBeaconService)
+com.radiusnetworks.ibeacon.service.IBeaconService$IBeaconBinder: com.radiusnetworks.ibeacon.service.IBeaconService getService()
+com.radiusnetworks.ibeacon.service.IBeaconService$IncomingHandler
+com.radiusnetworks.ibeacon.service.IBeaconService$IncomingHandler: java.lang.ref.WeakReference mService
+com.radiusnetworks.ibeacon.service.IBeaconService$IncomingHandler: IBeaconService$IncomingHandler(com.radiusnetworks.ibeacon.service.IBeaconService)
+com.radiusnetworks.ibeacon.service.IBeaconService$IncomingHandler: void handleMessage(android.os.Message)
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanData
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanData: android.bluetooth.BluetoothDevice device
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanData: int rssi
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanData: byte[] scanRecord
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanData: com.radiusnetworks.ibeacon.service.IBeaconService this$0
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanData: IBeaconService$ScanData(com.radiusnetworks.ibeacon.service.IBeaconService,android.bluetooth.BluetoothDevice,int,byte[])
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: com.radiusnetworks.ibeacon.service.IBeaconService this$0
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: IBeaconService$ScanProcessor(com.radiusnetworks.ibeacon.service.IBeaconService)
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: java.lang.Void doInBackground(com.radiusnetworks.ibeacon.service.IBeaconService$ScanData[])
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: void onPostExecute(java.lang.Void)
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: void onPreExecute()
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: void onProgressUpdate(java.lang.Void[])
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: void onProgressUpdate(java.lang.Object[])
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: void onPostExecute(java.lang.Object)
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: java.lang.Object doInBackground(java.lang.Object[])
+com.radiusnetworks.ibeacon.service.IBeaconService$ScanProcessor: IBeaconService$ScanProcessor(com.radiusnetworks.ibeacon.service.IBeaconService,com.radiusnetworks.ibeacon.service.IBeaconService$1)
+com.radiusnetworks.ibeacon.service.MonitorState
+com.radiusnetworks.ibeacon.service.MonitorState: java.lang.String TAG
+com.radiusnetworks.ibeacon.service.MonitorState: long INSIDE_EXPIRATION_MILLIS
+com.radiusnetworks.ibeacon.service.MonitorState: boolean inside
+com.radiusnetworks.ibeacon.service.MonitorState: long lastSeenTime
+com.radiusnetworks.ibeacon.service.MonitorState: com.radiusnetworks.ibeacon.service.Callback callback
+com.radiusnetworks.ibeacon.service.MonitorState: MonitorState(com.radiusnetworks.ibeacon.service.Callback)
+com.radiusnetworks.ibeacon.service.MonitorState: com.radiusnetworks.ibeacon.service.Callback getCallback()
+com.radiusnetworks.ibeacon.service.MonitorState: boolean markInside()
+com.radiusnetworks.ibeacon.service.MonitorState: boolean isNewlyOutside()
+com.radiusnetworks.ibeacon.service.MonitorState: boolean isInside()
+com.radiusnetworks.ibeacon.service.MonitorState: void <clinit>()
+com.radiusnetworks.ibeacon.service.MonitoringData
+com.radiusnetworks.ibeacon.service.MonitoringData: java.lang.String TAG
+com.radiusnetworks.ibeacon.service.MonitoringData: boolean inside
+com.radiusnetworks.ibeacon.service.MonitoringData: com.radiusnetworks.ibeacon.service.RegionData regionData
+com.radiusnetworks.ibeacon.service.MonitoringData: android.os.Parcelable$Creator CREATOR
+com.radiusnetworks.ibeacon.service.MonitoringData: MonitoringData(boolean,com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.service.MonitoringData: boolean isInside()
+com.radiusnetworks.ibeacon.service.MonitoringData: com.radiusnetworks.ibeacon.Region getRegion()
+com.radiusnetworks.ibeacon.service.MonitoringData: int describeContents()
+com.radiusnetworks.ibeacon.service.MonitoringData: void writeToParcel(android.os.Parcel,int)
+com.radiusnetworks.ibeacon.service.MonitoringData: MonitoringData(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.MonitoringData: MonitoringData(android.os.Parcel,com.radiusnetworks.ibeacon.service.MonitoringData$1)
+com.radiusnetworks.ibeacon.service.MonitoringData: void <clinit>()
+com.radiusnetworks.ibeacon.service.MonitoringData$1
+com.radiusnetworks.ibeacon.service.MonitoringData$1: MonitoringData$1()
+com.radiusnetworks.ibeacon.service.MonitoringData$1: com.radiusnetworks.ibeacon.service.MonitoringData createFromParcel(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.MonitoringData$1: com.radiusnetworks.ibeacon.service.MonitoringData[] newArray(int)
+com.radiusnetworks.ibeacon.service.MonitoringData$1: java.lang.Object[] newArray(int)
+com.radiusnetworks.ibeacon.service.MonitoringData$1: java.lang.Object createFromParcel(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.RangeState
+com.radiusnetworks.ibeacon.service.RangeState: com.radiusnetworks.ibeacon.service.Callback callback
+com.radiusnetworks.ibeacon.service.RangeState: java.util.Set iBeacons
+com.radiusnetworks.ibeacon.service.RangeState: RangeState(com.radiusnetworks.ibeacon.service.Callback)
+com.radiusnetworks.ibeacon.service.RangeState: com.radiusnetworks.ibeacon.service.Callback getCallback()
+com.radiusnetworks.ibeacon.service.RangeState: void clearIBeacons()
+com.radiusnetworks.ibeacon.service.RangeState: java.util.Set getIBeacons()
+com.radiusnetworks.ibeacon.service.RangeState: void addIBeacon(com.radiusnetworks.ibeacon.IBeacon)
+com.radiusnetworks.ibeacon.service.RangingData
+com.radiusnetworks.ibeacon.service.RangingData: java.lang.String TAG
+com.radiusnetworks.ibeacon.service.RangingData: java.util.Collection iBeaconDatas
+com.radiusnetworks.ibeacon.service.RangingData: com.radiusnetworks.ibeacon.service.RegionData regionData
+com.radiusnetworks.ibeacon.service.RangingData: android.os.Parcelable$Creator CREATOR
+com.radiusnetworks.ibeacon.service.RangingData: RangingData(java.util.Collection,com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.service.RangingData: RangingData(java.util.Collection,com.radiusnetworks.ibeacon.service.RegionData)
+com.radiusnetworks.ibeacon.service.RangingData: java.util.Collection getIBeacons()
+com.radiusnetworks.ibeacon.service.RangingData: com.radiusnetworks.ibeacon.service.RegionData getRegion()
+com.radiusnetworks.ibeacon.service.RangingData: int describeContents()
+com.radiusnetworks.ibeacon.service.RangingData: void writeToParcel(android.os.Parcel,int)
+com.radiusnetworks.ibeacon.service.RangingData: RangingData(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.RangingData: RangingData(android.os.Parcel,com.radiusnetworks.ibeacon.service.RangingData$1)
+com.radiusnetworks.ibeacon.service.RangingData: void <clinit>()
+com.radiusnetworks.ibeacon.service.RangingData$1
+com.radiusnetworks.ibeacon.service.RangingData$1: RangingData$1()
+com.radiusnetworks.ibeacon.service.RangingData$1: com.radiusnetworks.ibeacon.service.RangingData createFromParcel(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.RangingData$1: com.radiusnetworks.ibeacon.service.RangingData[] newArray(int)
+com.radiusnetworks.ibeacon.service.RangingData$1: java.lang.Object[] newArray(int)
+com.radiusnetworks.ibeacon.service.RangingData$1: java.lang.Object createFromParcel(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.RegionData
+com.radiusnetworks.ibeacon.service.RegionData: android.os.Parcelable$Creator CREATOR
+com.radiusnetworks.ibeacon.service.RegionData: RegionData(java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer)
+com.radiusnetworks.ibeacon.service.RegionData: RegionData(com.radiusnetworks.ibeacon.Region)
+com.radiusnetworks.ibeacon.service.RegionData: int describeContents()
+com.radiusnetworks.ibeacon.service.RegionData: void writeToParcel(android.os.Parcel,int)
+com.radiusnetworks.ibeacon.service.RegionData: RegionData(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.RegionData: RegionData(android.os.Parcel,com.radiusnetworks.ibeacon.service.RegionData$1)
+com.radiusnetworks.ibeacon.service.RegionData: void <clinit>()
+com.radiusnetworks.ibeacon.service.RegionData$1
+com.radiusnetworks.ibeacon.service.RegionData$1: RegionData$1()
+com.radiusnetworks.ibeacon.service.RegionData$1: com.radiusnetworks.ibeacon.service.RegionData createFromParcel(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.RegionData$1: com.radiusnetworks.ibeacon.service.RegionData[] newArray(int)
+com.radiusnetworks.ibeacon.service.RegionData$1: java.lang.Object[] newArray(int)
+com.radiusnetworks.ibeacon.service.RegionData$1: java.lang.Object createFromParcel(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.StartRMData
+com.radiusnetworks.ibeacon.service.StartRMData: com.radiusnetworks.ibeacon.service.RegionData regionData
+com.radiusnetworks.ibeacon.service.StartRMData: long scanPeriod
+com.radiusnetworks.ibeacon.service.StartRMData: long betweenScanPeriod
+com.radiusnetworks.ibeacon.service.StartRMData: java.lang.String callbackPackageName
+com.radiusnetworks.ibeacon.service.StartRMData: android.os.Parcelable$Creator CREATOR
+com.radiusnetworks.ibeacon.service.StartRMData: StartRMData(com.radiusnetworks.ibeacon.service.RegionData,java.lang.String)
+com.radiusnetworks.ibeacon.service.StartRMData: StartRMData(long,long)
+com.radiusnetworks.ibeacon.service.StartRMData: StartRMData(com.radiusnetworks.ibeacon.service.RegionData,java.lang.String,long,long)
+com.radiusnetworks.ibeacon.service.StartRMData: long getScanPeriod()
+com.radiusnetworks.ibeacon.service.StartRMData: long getBetweenScanPeriod()
+com.radiusnetworks.ibeacon.service.StartRMData: com.radiusnetworks.ibeacon.service.RegionData getRegionData()
+com.radiusnetworks.ibeacon.service.StartRMData: java.lang.String getCallbackPackageName()
+com.radiusnetworks.ibeacon.service.StartRMData: int describeContents()
+com.radiusnetworks.ibeacon.service.StartRMData: void writeToParcel(android.os.Parcel,int)
+com.radiusnetworks.ibeacon.service.StartRMData: StartRMData(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.StartRMData: StartRMData(android.os.Parcel,com.radiusnetworks.ibeacon.service.StartRMData$1)
+com.radiusnetworks.ibeacon.service.StartRMData: void <clinit>()
+com.radiusnetworks.ibeacon.service.StartRMData$1
+com.radiusnetworks.ibeacon.service.StartRMData$1: StartRMData$1()
+com.radiusnetworks.ibeacon.service.StartRMData$1: com.radiusnetworks.ibeacon.service.StartRMData createFromParcel(android.os.Parcel)
+com.radiusnetworks.ibeacon.service.StartRMData$1: com.radiusnetworks.ibeacon.service.StartRMData[] newArray(int)
+com.radiusnetworks.ibeacon.service.StartRMData$1: java.lang.Object[] newArray(int)
+com.radiusnetworks.ibeacon.service.StartRMData$1: java.lang.Object createFromParcel(android.os.Parcel)
+map.navi.Data.NaviNode
+map.navi.Data.NaviNode: android.os.Parcelable$Creator CREATOR
+map.navi.Data.POI
+map.navi.Data.POI: android.os.Parcelable$Creator CREATOR
+map.navi.Data.PositionNode
+map.navi.Data.PushMessageNode
+map.navi.component.NaviViewItem: void setImage(int)
+map.navi.component.NaviViewItem: void setImage(android.graphics.Bitmap)
+map.navi.component.NaviViewItem: int getImageHeight()
+map.navi.component.NaviViewItem: int getImageWidth()
+map.navi.component.NaviViewItem: void setViewParameters(android.view.ViewGroup$LayoutParams)
+map.navi.component.NaviViewItem: float[] getMatrixValue()
+map.navi.component.NavigationRouteSetting
+map.navi.component.NavigationRouteSetting: NavigationRouteSetting()
+map.navi.component.NavigationView
+map.navi.component.NavigationView: NavigationView(android.content.Context,android.util.AttributeSet)
+map.navi.component.NavigationView: void setNavigationCalculator(map.navi.component.NavigationCalculator)
+map.navi.component.NavigationView: float[] getMoveStepXY()
+map.navi.component.NavigationView: float[] getCurrentMoveOnLineCoordinate()
+map.navi.component.NavigationView: float[] getLocatePointPixelOnMap()
+map.navi.component.NavigationView: float getMapRatio()

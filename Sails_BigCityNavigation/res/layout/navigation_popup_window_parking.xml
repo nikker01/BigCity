@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    
+    >
+     <LinearLayout 
+        android:id="@+id/popupwindow_linear1"
+        android:layout_width="wrap_content"
+    	android:layout_height="70dip"
+    	android:layout_alignParentRight="true"
+    	android:background="#a0000000"
+    	>
+     <ImageView
+        android:layout_width="1px"
+        android:layout_height="fill_parent"
+        android:background="#aaffffff"
+        >
+        
+    </ImageView>
+        <RelativeLayout android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        >
+
+   	  <Button
+        android:id="@+id/pupop_window_start_locate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      	android:layout_centerInParent="true"
+        android:background="@drawable/relocate"
+      
+        />
+
+    </RelativeLayout>
+   
+     </LinearLayout>
+     <RelativeLayout 
+    	android:layout_width="fill_parent"
+    	android:layout_height="70dip"
+    	android:orientation="horizontal"
+    	
+    	android:background="#a0000000"
+    	android:layout_toLeftOf="@id/popupwindow_linear1"
+    >
+    
+    <Button 
+        android:id="@+id/pupop_window_plan_navigation"
+        android:layout_width="fill_parent"
+        android:layout_height="70dip"
+        android:text="friend"
+        android:background="#00000000"
+        android:textColor="#ffffff"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerInParent="true"       
+        />
+  </RelativeLayout>
+
+</RelativeLayout>

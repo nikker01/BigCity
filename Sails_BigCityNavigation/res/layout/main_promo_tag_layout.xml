@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEEEEE"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="40.0dip"
+        android:background="#EEEEEE" >
+
+        
+        <TextView
+            android:id="@+id/text1"
+            android:background="#f7f7f7"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="BigCity"
+            android:textColor="#000000"
+            android:textSize="18.0dip" />
+        
+        
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="#d2d2d2" />
+        
+        <TextView
+            android:background="#f7f7f7"
+            android:id="@+id/text2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="SOGO"
+            android:textColor="#000000"
+            android:textSize="18.0dip" />
+      
+        
+        
+    </LinearLayout>
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

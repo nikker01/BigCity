@@ -1,0 +1,118 @@
+# view res/layout/main_brand_tag_layout.xml #generated:47
+# view res/layout/main_promo_tag_layout.xml #generated:48
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/activity_drawer_layout.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.doubleservice.bigcitynavigation.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:182
+-keep class com.doubleservice.bigcitynavigation.AlarmReceiverUtil { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.doubleservice.bigcitynavigation.ApplicationController { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.doubleservice.bigcitynavigation.FreeHomepage { <init>(...); }
+
+# view AndroidManifest.xml #generated:177
+-keep class com.doubleservice.bigcitynavigation.IbeaconService { <init>(...); }
+
+# view AndroidManifest.xml #generated:163
+-keep class com.doubleservice.bigcitynavigation.MemberHappyGo { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.doubleservice.bigcitynavigation.Navigation { <init>(...); }
+
+# view AndroidManifest.xml #generated:175
+-keep class com.doubleservice.bigcitynavigation.PushMessageService { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.doubleservice.bigcitynavigation.PushMsgFileActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.doubleservice.bigcitynavigation.SailsTechActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:179
+-keep class com.doubleservice.bigcitynavigation.WiFiService { <init>(...); }
+
+# view AndroidManifest.xml #generated:59
+-keep class com.doubleservice.bigcitynavigation.drawer.BaseDrawerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.doubleservice.brand.BrandList { <init>(...); }
+
+# view AndroidManifest.xml #generated:145
+-keep class com.doubleservice.brand.FreeBrandPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:136
+-keep class com.doubleservice.brand.MainBrandLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.doubleservice.dr.DinningRoomList { <init>(...); }
+
+# view AndroidManifest.xml #generated:104
+-keep class com.doubleservice.dr.FreeDinningRoomPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:112
+-keep class com.doubleservice.dr.FreeReservation { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.doubleservice.dr.FreeReservationByNumber { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class com.doubleservice.dr.FreeReservationByTime { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.doubleservice.dr.FreeReservationInfo { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.doubleservice.findchild.ChildBeaconSetup { <init>(...); }
+
+# view AndroidManifest.xml #generated:173
+-keep class com.doubleservice.findchild.ChildDetectService { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.doubleservice.findchild.DetectPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.doubleservice.findchild.FindChildDescription { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.doubleservice.findfriends.FindFriendDes { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.doubleservice.findfriends.FriendList { <init>(...); }
+
+# view AndroidManifest.xml #generated:181
+-keep class com.doubleservice.parking.ParkAlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class com.doubleservice.parking.ParkDescription { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.doubleservice.parking.ParkWarningSetting { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.doubleservice.parking.UserParkingInfo { <init>(...); }
+
+# view AndroidManifest.xml #generated:167
+-keep class com.doubleservice.parking.map.ParkingMap { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.doubleservice.promotional.FreePromotionalPage { <init>(...); }
+
+# view AndroidManifest.xml #generated:149
+-keep class com.doubleservice.promotional.MainPromotional { <init>(...); }
+
+# view AndroidManifest.xml #generated:154
+-keep class com.doubleservice.promotional.PromotionalList { <init>(...); }
+
+# view AndroidManifest.xml #generated:74
+-keep class map.navi.component.NavigationRouteSetting { <init>(...); }
+
+# view res/layout/position1f.xml #generated:9
+-keep class map.navi.component.NavigationView { <init>(...); }
+

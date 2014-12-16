@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action"
+        android:icon="@drawable/menu_icon"
+        android:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/intent_sort"
+                android:title="@string/menu_dr_list_sort"/>
+            <item
+                android:id="@+id/intent_reservation"
+                android:title="@string/menu_dr_list_reservation"/>
+        </menu>
+    </item>
+
+</menu>

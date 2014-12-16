@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BigCityPOC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+     <!-- strings for SailsTech -->
+    <string name="start_location_engine">Start Location</string>
+    <string name="stop_location_engine">Stop Location</string>
+    <string name="usage">(When Engine is off)\nRegion long press: set route start point.\nRegion short press: set route end point.\n\n(When Engine is on)\nUser current fix location is start point, \nand short press region to set route end point.</string>
+   	<string name="map_name">新竹巨城</string>
+   	
+    <!-- strings for sliding menu items -->
+    <string name="menu_home">回!首頁</string>
+    <string name="menu_account">Nickname</string>
+    <string name="menu_navigation">地圖導覽</string>
+    <string name="menu_floor">逛!樓面</string>
+    <string name="menu_food">訂!餐飲</string>
+    <string name="menu_find_child">尋!寶貝</string>
+    <string name="menu_find_friend">找!好友</string>
+    <string name="menu_parking">泊!停車</string>
+    <string name="menu_news">最新資訊</string>
+    <string name="menu_find_promotion">挖!好康</string>
+    <string name="menu_find_brand">搜!品牌</string>
+    <string name="menu_member">會員</string>
+    <string name="menu_happygo">集!HAPPY GO</string>
+	<string name="menu_pushad">廣告推播</string>
+	<string name="menu_push_msg">推播訊息</string>
+    
+    <string name="menu_open"></string>
+    <string name="menu_close">關閉</string>
+    
+    <string name="menu_dr_list_sort">排序</string>
+    <string name="menu_dr_list_reservation">我的預約</string>
+    
+    <string name="menu_dr_list_sort_title">選擇排序方式</string>
+    <string name="menu_dr_list_sort1">等候時間</string>
+    <string name="menu_dr_list_sort2">類別</string>
+    <string name="menu_dr_list_sort3">樓層</string>
+    
+    <string name="dialog_btn_retry">重試</string>
+    <string name="dialog_btn_confirm">確認</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="dialog_btn_close">關閉</string>
+    <string name="dialog_btn_remove">移除</string>
+    <string name="dialog_btn_gosetting">返回設定頁面</string>
+    
+    <string name="dialog_title_bluetooth_inavailable">開啟藍牙設定</string>
+    <string name="dialog_title_download_fail">下載失敗</string>
+    <string name="dialog_title_get_push_msg">推播訊息</string>
+    <string name="dialog_title_reservation_method">選擇預約方式</string>
+    <string name="dialog_title_parking_warning">停車鬧鐘</string>
+    <string name="dialog_title_child_gone">注意</string>
+    <string name="dialog_title_park_delete">刪除停車位置</string>
+    <string name="dialog_title_park_time_setting">鬧鐘時間設定</string>
+    <string name="dialog_title_parking_space_choice">選擇停車位置</string>
+    <string name="dialog_title_no_reservation">沒有預約</string>
+    <string name="dialog_title_reservation_cancel">取消預約</string>
+    <string name="dialog_title_reservation_success">預約成功</string>
+    <string name="dialog_msg_parking_ontime">您設定的停車時間到囉，請前往取車</string>
+    <string name="dialog_msg_parking_space">A17</string>
+    <string name="dialog_msg_function_building">建置中</string>
+    <string name="dialog_msg_reservation_cancel">確定取消預約？</string>
+    <string name="dialog_msg_no_reservation">您還沒有預約訂位喲</string>
+    <string name="dialog_msg_reservation_success">已成功預約：</string>
+    <string name="dialog_msg_reservation_content">您的預約號碼是357號。\n如過號將自動取消預約。</string>
+    <string name="dialog_msg_park_delete">將會刪除您的停車位置與設定</string>
+    <string name="dialog_msg_child_gone">您的寶貝離你太遠囉！</string>
+    <string name="dialig_msg_cant_detect_device">無法偵測到裝置訊號</string>
+    <string name="dialog_msg_delete_beacon">是否刪除裝置配對？</string>
+    <string name="dialog_msg_ble_not_work">您的裝置尚未開啟或不支援BLE</string>
+    <string name="dialog_msg_beacon_service">歡迎光臨</string>
+    <string name="dialog_msg_find_friend_tips">是否允許此功能取用您手機中的聯絡人資訊？</string>
+    <string name="dialog_msg_get_contact_list_fail">取得聯絡人資訊失敗。</string>
+    <string name="dialog_msg_gotomap">是否前往地圖頁面？</string>
+    <string name="dialog_msg_reservation1">立刻候位</string>
+    <string name="dialog_msg_reservation2">選擇預約時段</string>
+    <string name="dialog_msg_people1">2人</string>
+    <string name="dialog_msg_people2">3人</string>
+    <string name="dialog_msg_people3">4人</string>
+    <string name="dialog_msg_people4">5人</string>
+    <string name="dialog_msg_people5">6人</string>
+    <string name="dialog_msg_get_file">是否下載附加檔案？</string>
+    <string name="dialog_msg_blutooth_inavailable">您的手機不支援或尚未開啟藍牙功能，按下確定後前往設定頁面，或按取消離開此功能</string>
+    <string name="dialog_msg_download_fail_tips">品牌資料下載失敗，請檢查網路狀況。\n選擇重新嘗試下載或取消。</string>
+    <string name="dialog_msg_arrived_parking">到達停車場</string>
+    
+    <string name="setting_warn">提醒</string>
+    <string name="setting_warn_region">警戒範圍</string>
+    <string name="setting_warn_sound">警示鈴聲</string>
+    <string name="setting_warn_ring">鈴聲</string>
+    
+    
+    <string name="layout_reservation_time">預約時段</string>
+    <string name="layout_reservation_people">預約人數</string>
+    <string name="layout_reservation_des">請選擇預定時段以及人數</string>
+    <string name="layout_title_park_setting">停車設定</string>
+    <string name="layout_title_reservation">我的預約</string>
+    <string name="layout_btn_confirm">確定</string>
+    <string name="layout_btn_backward">上一步</string>
+    <string name="layout_btn_complete">完成</string>
+    <string name="layout_btn_start">開始使用</string>
+    <string name="layout_list_item1">B3停車場(汽車、機車)A區</string>
+    <string name="layout_list_item2">B3停車場(汽車、機車)B區</string>
+    <string name="layout_list_item3">B3停車場(汽車、機車)C區</string>
+    <string name="layout_list_item4">B3停車場(汽車、機車)D區</string>
+    <string name="layout_list_item5">B3停車場(汽車、機車)A區 A17</string>
+    <string name="layout_parking_space">停車位置</string>
+    <string name="layout_parking_set">資料建立時間</string>
+    <string name="layout_parking_des">只要設定停車位置及鬧鐘，即可輕鬆掌握停車時間！快速找到您的愛車！</string>
+    <string name="layout_find_child_des">將您的手機跟寶貝的裝置配對後，就可以啟用尋寶貝功能，當他離您超過一定距離就會發出聲響提醒您！
+        受行走速度以及現場訊號影響，警示範圍約5~10公尺。</string>
+    <string name="layout_find_friend_des">輸入手機號碼後，就可以啟用尋友功能，便利快速地找到您的好友位置，快來體驗看看吧！</string>
+    <string name="layout_find_child_edittext_hint">  請輸入裝置編號</string>
+    <string name="layout_find_child_field">裝置名稱</string>
+    <string name="layout_find_child_txt1">警示範圍：</string>
+    <string name="layout_parking_setting">停車位置設定</string>
+    <string name="layout_parking_setting_str">鬧鐘提醒時間</string>
+    <string name="layout_parking_setting_str2">鬧鐘提醒時間</string>
+    <string name="layout_parking_time1">30分鐘後</string>
+    <string name="layout_parking_time2">1小時後</string>
+    <string name="layout_parking_time3">2小時後</string>
+    <string name="layout_parking_time4">3小時後</string>
+    <string name="layout_parking_time5">4小時後</string>
+    <string name="layout_parking_time6">5小時後</string>
+    <string name="layout_parking_time7">6小時後</string>
+    <string name="layout_parking_time8">7小時後</string>
+    <string name="layout_parking_time9">8小時後</string>
+    <string name="layout_parking_time10">9小時後</string>
+    <string name="layout_parking_time11">10小時後</string>
+    <string name="layout_parking_time12">11小時後</string>
+    <string name="layout_parking_time13">12小時後</string>
+    <string name="layout_find_friend_hint">請輸入自己的手機號碼</string>
+    
+    <string name="toast_str_reserve_ok">預約成功</string>
+    <string name="toast_str_park_setting">設定成功</string>
+    <string name="toast_str_park_delete">成功移除</string>
+    <string name="toast_str_findfriend_fail">搜尋好友位置失敗。請檢查網路問題或您的好友已不在現場。</string>
+    <string name="toast_str_ble_not_work">您的裝置不支援或尚未開啟藍牙功能</string>
+    <string name="toast_str_fingerprint_download_ok">定位與導航資料庫更新成功。</string>
+    <string name="toast_str_fingerprint_download_fail">定位與導航資料庫更新失敗</string>
+    <string name="toast_str_wrong_phone_number">輸入了錯誤或不合格式的手機號碼。</string>
+    <string name="toast_str_wrong_beacon_number">輸入了錯誤的beacon</string>
+    <string name="toast_str_goto7f">請前往七樓。</string>
+    <string name="toast_str_no_navitarget_data">目前無該櫃位資料</string>
+    <string name="toast_str_delete_beacon">已解除裝置配對</string>
+    <string name="toast_str_detect_not_in_floor">目前不在定位範圍</string>
+    <string name="toast_str_please_go_to">請前往 </string>
+    <string name="toast_str_will_arrive">以便到達</string>
+    <string name="toast_str_locate_out_of_time">目前無定位資料</string>
+
+    
+    <string name="progress_dialog_title_get_file">附加檔案下載中</string>
+    <string name="progress_dialog_title_download">資料更新中</string>
+    <string name="progress_dialog_title_contactlist_refresh">更新中</string>
+    <string name="progress_dialog_title_wait">請稍後</string>
+    <string name="progress_dialog_msg_get_friend_location">正在取得好友位置資料</string>
+    <string name="progress_dialog_msg_contactlist_refresh">正在更新聯絡人資訊。請勿關閉程式並保持網路暢通</string>
+    <string name="progress_dialog_msg_download">正在更新定位與導航資料，請勿關閉程式並保持網路暢通</string>
+	<string name="progress_dialog_msg_change_map">定位中，請稍後</string>
+    <string name="layout_navigation_setting_start">起點</string>
+    <string name="layout_navigation_setting_end">終點</string>
+
+    <string name="layout_navigation_setting_current_locate">現在位置</string>
+    <string name="layout_navigation_setting_select_end">選擇終點</string>
+     <string name="layout_navigation_setting_select_start">選擇起點</string>
+    
+    <string name="action_bar_item_setting">設定</string>
+    <string name="action_bar_item_select_floor">選擇樓層</string>
+    <string name="action_bar_item_navigation_setting">導航設定</string>
+    <string name="map_parking_map_name">B3 停車場(汽車、機車)</string>
+    <string name="popup_navigation">地圖導航</string>
+    <string name="map_parking_area_a"> A區</string>
+    <string name="arrive_target">您已到達</string>
+    <string name="parking_elevator">停車場電梯</string>
+    <string name="shop1">"仙Q甜品專賣"</string>
+    <string name="shop2">"麵八拉麵"</string>
+    <string name="shop3">"21世紀風味館"</string>
+    <string name="shop4">"Timberland"</string>
+    <string name="shop5">"River Wood"</string>
+    <string name="shop6">"Levi's"</string>
+    
+    <string name="notification_title_ad">已收到推播消息</string>
+    <string name="notification_msg_ad">已收到最新消息推播，打開來看看吧！</string>
+    <string name="notification_msg_dr">您預約的用餐時間到了，請前往該餐廳。</string>
+    <string name="notification_msg_park_15min">您的停車時間已經過了15分鐘。</string>
+</resources>

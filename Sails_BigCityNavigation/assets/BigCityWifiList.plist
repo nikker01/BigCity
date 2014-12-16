@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<dict>
+		<key>BigCity_APList</key>
+		<dict>
+			<key>0</key>
+			<dict>
+				<key>MacAddress</key>
+				<array>
+					<string>54:d0:ed:a1:5a:70</string>
+					<string>54:d0:ed:a1:5c:10</string>
+					<string>54:d0:ed:a1:57:00</string>
+					<string>54:d0:ed:a1:5c:50</string>
+					<string>54:d0:ed:a1:5c:78</string>
+					<string>54:d0:ed:a1:54:b8</string>
+					<string>54:d0:ed:a1:55:d8</string>
+					<string>54:d0:ed:a1:54:a0</string>
+					<string>54:d0:ed:a1:54:08</string>
+					<string>54:d0:ed:a1:56:58</string>
+					<string>54:d0:ed:a1:5d:08</string>
+					<string>54:d0:ed:a1:5d:40</string>
+					<string>54:d0:ed:a1:5d:58</string>
+					<string>54:d0:ed:a1:53:68</string>
+					<string>54:d0:ed:a1:5b:30</string>
+				</array>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
